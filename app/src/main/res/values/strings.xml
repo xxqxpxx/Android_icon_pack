@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IconPack Studio</string>
+    <string name="app_subtitle">Premium Social Media Icons</string>
+    <string name="apply_icon_pack">Apply Icon Pack</string>
+    <string name="icon_preview">Icon Preview</string>
+    <string name="select_launcher">Select Launcher</string>
+    <string name="manual_apply">Apply Manually</string>
+    <string name="no_launcher_found">No compatible launcher found</string>
+    <string name="launcher_instructions">To apply this icon pack:\n\n1. Open your launcher settings\n2. Look for Icon Pack or Themes\n3. Select IconPack Studio\n4. Apply the changes</string>
+    
+    <!-- App Description -->
+    <string name="app_description">Complete icon pack featuring 75+ beautifully designed icons for the most popular social media, productivity, and system apps. Includes modern icons for Instagram, TikTok, BeReal, Threads, Gmail, Chrome, and many more. Compatible with Nova Launcher, Apex, Action Launcher, and other major Android launchers.</string>
+    
+    <!-- Icon Names -->
+    <string name="icon_settings">Settings</string>
+    <string name="icon_chrome">Chrome</string>
+    <string name="icon_gmail">Gmail</string>
+    <string name="icon_maps">Maps</string>
+    <string name="icon_youtube">YouTube</string>
+    <string name="icon_playstore">Play Store</string>
+    <string name="icon_camera">Camera</string>
+    <string name="icon_gallery">Gallery</string>
+    <string name="icon_calculator">Calculator</string>
+    <string name="icon_clock">Clock</string>
+    <string name="icon_contacts">Contacts</string>
+    <string name="icon_phone">Phone</string>
+    <string name="icon_messages">Messages</string>
+    <string name="icon_files">Files</string>
+    <string name="icon_music">Music</string>
+    <string name="icon_downloads">Downloads</string>
+    
+    <!-- Social Media Icons -->
+    <string name="icon_instagram">Instagram</string>
+    <string name="icon_facebook">Facebook</string>
+    <string name="icon_twitter">Twitter</string>
+    <string name="icon_threads">Threads</string>
+    <string name="icon_tiktok">TikTok</string>
+    <string name="icon_snapchat">Snapchat</string>
+    <string name="icon_whatsapp">WhatsApp</string>
+    <string name="icon_telegram">Telegram</string>
+    <string name="icon_discord">Discord</string>
+    <string name="icon_reddit">Reddit</string>
+    <string name="icon_linkedin">LinkedIn</string>
+    <string name="icon_bereal">BeReal</string>
+    <string name="icon_clubhouse">Clubhouse</string>
+    <string name="icon_medium">Medium</string>
+    <string name="icon_tumblr">Tumblr</string>
+    <string name="icon_flickr">Flickr</string>
+    <string name="icon_vimeo">Vimeo</string>
+    <string name="icon_spotify">Spotify</string>
+    <string name="icon_netflix">Netflix</string>
+    
+    <!-- Theme Names -->
+    <string name="theme_minimal_o">Minimal O</string>
+    <string name="theme_borealis">Borealis</string>
+    <string name="theme_tigad_pro">Tigad Pro</string>
+    
+    <!-- Descriptions -->
+    <string name="minimal_o_desc">Clean, circular icons with minimal design</string>
+    <string name="borealis_desc">Square icons with rounded corners and vibrant colors</string>
+    <string name="tigad_pro_desc">3D icons with depth and premium appearance</string>
+</resources>
+

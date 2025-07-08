@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background circle -->
+    <path
+        android:fillColor="@color/primary_color"
+        android:pathData="M54,54m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0" />
+    
+    <!-- Inner circle -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M54,54m-35,0a35,35 0,1 1,70 0a35,35 0,1 1,-70 0" />
+    
+    <!-- Icon grid pattern using paths instead of circles -->
+    
+    <!-- Top row dots -->
+    <path
+        android:fillColor="@color/primary_color"
+        android:pathData="M39,39m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path
+        android:fillColor="@color/accent_color"
+        android:pathData="M54,39m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path
+        android:fillColor="@color/primary_color"
+        android:pathData="M69,39m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+        
+    <!-- Middle row dots -->
+    <path
+        android:fillColor="@color/accent_color"
+        android:pathData="M39,54m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path
+        android:fillColor="@color/primary_color"
+        android:pathData="M54,54m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+    <path
+        android:fillColor="@color/accent_color"
+        android:pathData="M69,54m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+        
+    <!-- Bottom row dots -->
+    <path
+        android:fillColor="@color/primary_color"
+        android:pathData="M39,69m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path
+        android:fillColor="@color/accent_color"
+        android:pathData="M54,69m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path
+        android:fillColor="@color/primary_color"
+        android:pathData="M69,69m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    
+</vector> 

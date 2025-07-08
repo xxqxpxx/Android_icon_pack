@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Icon Pack Configuration -->
+    <iconback img1="iconback" />
+    <iconmask img1="iconmask" />
+    <iconupon img1="iconupon" />
+    <scale factor="1.0" />
+    
+    <!-- App Icon Mappings -->
+    <!-- System Apps -->
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
+    <item component="ComponentInfo{com.android.settings/.Settings}" drawable="settings" />
+    
+    <!-- Google Apps -->
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
+    <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="chrome" />
+    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="gmail" />
+    <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="maps" />
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.apps.youtube.app.WatchWhileActivity}" drawable="youtube" />
+    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="playstore" />
+    
+    <!-- Camera and Gallery -->
+    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="gallery" />
+    
+    <!-- System Utilities -->
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator" />
+    <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="calculator" />
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
+    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
+    
+    <!-- Communication -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.google.android.dialer/com.android.dialer.extensions.GoogleDialtactsActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messages" />
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.conversationlist.ConversationListActivity}" drawable="google_messages" />
+    
+    <!-- Primary Messaging Apps -->
+    <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="messenger" />
+    <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.MainActivity}" drawable="messenger" />
+    <item component="ComponentInfo{com.apple.MobileSMS/com.apple.MobileSMS.MessagesActivity}" drawable="imessage" />
+    <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="viber" />
+    <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" />
+    <item component="ComponentInfo{com.threema.app/com.threema.app.activities.HomeActivity}" drawable="threema" />
+    <item component="ComponentInfo{com.wickr.pro/com.wickr.pro.MainActivity}" drawable="wickr" />
+    <item component="ComponentInfo{im.vector.app/im.vector.app.features.home.HomeActivity}" drawable="element" />
+    <item component="ComponentInfo{com.groupme.android/com.groupme.android.MainActivity}" drawable="groupme" />
+    <item component="ComponentInfo{com.discord.nitro/com.discord.nitro.MainActivity}" drawable="discord_nitro" />
+    
+    <!-- File Management -->
+    <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" />
+    <item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" />
+    <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="downloads" />
+    
+    <!-- Media -->
+    <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="music" />
+    <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="music" />
+    
+    <!-- Popular Third-Party Apps -->
+    <item component="ComponentInfo{com.whatsapp/com.whatsapp.Conversation}" drawable="whatsapp" />
+    <item component="ComponentInfo{com.whatsapp/com.whatsapp.HomeActivity}" drawable="whatsapp" />
+    <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" />
+    <item component="ComponentInfo{com.instagram.android/com.instagram.mainactivity.MainActivity}" drawable="instagram" />
+    <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter" />
+    <item component="ComponentInfo{com.twitter.android/com.twitter.composer.ComposerActivity}" drawable="x_twitter" />
+    <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat" />
+    <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify" />
+    <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" />
+    <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+    <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.StartupActivity}" drawable="paypal" />
+    <item component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}" drawable="uber" />
+    <item component="ComponentInfo{com.tinder/com.tinder.activities.ActivityMain}" drawable="tinder" />
+    <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" />
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
+    <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.ui.LaunchActivity}" drawable="telegram" />
+    <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord" />
+    <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linkedin" />
+    <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.home.HomeActivity}" drawable="linkedin" />
+    <item component="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.MainActivity}" drawable="reddit" />
+    
+    <!-- Gaming -->
+    <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam" />
+    <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LegacyNativeActivity}" drawable="twitch" />
+    <item component="ComponentInfo{com.playstation.psapp/com.playstation.psapp.activities.MainActivity}" drawable="playstation" />
+    <item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xboxone.smartglass.MainActivity}" drawable="xbox" />
+    
+    <!-- Productivity -->
+    <item component="ComponentInfo{us.zoom.videomeetings/us.zoom.videomeetings.MainActivity}" drawable="zoom" />
+    <item component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}" drawable="teams" />
+    <item component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officehub.ui.MainActivity}" drawable="office" />
+    <item component="ComponentInfo{com.Slack/com.slack.ui.HomeActivity}" drawable="slack" />
+    <item component="ComponentInfo{notion.id/notion.id.MainActivity}" drawable="notion" />
+    <item component="ComponentInfo{com.trello/com.trello.home.HomeActivity}" drawable="trello" />
+    <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" drawable="dropbox" />
+    <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive" />
+    <item component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}" drawable="github" />
+    
+    <!-- Travel & Shopping -->
+    <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.feat.homescreen.HomeActivity}" drawable="airbnb" />
+    <item component="ComponentInfo{com.booking/com.booking.startup.HomeActivity}" drawable="booking" />
+    <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.MainActivity}" drawable="ebay" />
+    <item component="ComponentInfo{com.etsy.android/com.etsy.android.ui.homescreen.HomescreenTabsActivity}" drawable="etsy" />
+    
+    <!-- Photography -->
+    <item component="ComponentInfo{com.vsco.cam/com.vsco.cam.MainActivity}" drawable="vsco" />
+    <item component="ComponentInfo{com.adobe.lrmobile/com.adobe.lrmobile.MainActivity}" drawable="lightroom" />
+    <item component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.MainActivity}" drawable="adobe_photoshop" />
+    
+    <!-- Design Tools -->
+    <item component="ComponentInfo{com.figma.figma/com.figma.figma.MainActivity}" drawable="figma" />
+    <item component="ComponentInfo{com.airtable.android/com.airtable.android.MainActivity}" drawable="airtable" />
+    
+    <!-- Additional Communication -->
+    <item component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.w4b.MainActivity}" drawable="whatsapp_business" />
+    <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="microsoft_outlook" />
+    
+    <!-- Web Browsers -->
+    <item component="ComponentInfo{com.google.android.apps.chrome/com.google.android.apps.chrome.MainActivity}" drawable="google_chrome" />
+    <item component="ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main}" drawable="microsoft_edge" />
+    <item component="ComponentInfo{com.apple.mobilesafari/com.apple.mobilesafari.SafariActivity}" drawable="safari" />
+    
+    <!-- App Stores -->
+    <item component="ComponentInfo{com.apple.AppStore/com.apple.AppStore.ASDStoreKitExternalProductPageActivity}" drawable="apple_app_store" />
+    
+    <!-- Updated Google Maps -->
+    <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="google_maps" />
+    
+    <!-- Social Media Expansion Pack -->
+    <!-- Emerging Social -->
+    <item component="ComponentInfo{me.bereal.ft/me.bereal.ft.MainActivity}" drawable="bereal" />
+    <item component="ComponentInfo{com.clubhouseapp/com.clubhouseapp.ClubhouseActivity}" drawable="clubhouse" />
+    
+    <!-- Blogging & Content -->
+    <item component="ComponentInfo{com.tumblr/com.tumblr.ui.HomeActivity}" drawable="tumblr" />
+    <item component="ComponentInfo{com.medium.reader/com.medium.android.donorschoose.activity.MainActivity}" drawable="medium" />
+    <item component="ComponentInfo{com.quora.android/com.quora.android.MainActivity}" drawable="quora" />
+    <item component="ComponentInfo{com.stackexchange.stackoverflow/com.stackexchange.stackoverflow.MainActivity}" drawable="stack_overflow" />
+    
+    <!-- Photo & Video -->
+    <item component="ComponentInfo{com.yahoo.mobile.client.android.flickr/com.yahoo.mobile.client.android.flickr.activity.MainActivity}" drawable="flickr" />
+    <item component="ComponentInfo{com.vimeo.android.videoapp/com.vimeo.android.videoapp.VideoPlayerActivity}" drawable="vimeo" />
+    <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.android.app.main.MainActivity}" drawable="dailymotion" />
+    
+    <!-- International Social -->
+    <item component="ComponentInfo{com.sina.weibo/com.sina.weibo.MainActivity}" drawable="weibo" />
+    <item component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq" />
+    <item component="ComponentInfo{com.kakao.talk/com.kakao.talk.activity.main.MainActivity}" drawable="kakaotalk" />
+    <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}" drawable="vk" />
+    <item component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="douyin" />
+    
+    <!-- Alternative Social Networks -->
+    <item component="ComponentInfo{com.mewe/com.mewe.MainActivity}" drawable="mewe" />
+    <item component="ComponentInfo{com.parler.parler/com.parler.parler.MainActivity}" drawable="parler" />
+    <item component="ComponentInfo{com.gab.android/com.gab.android.MainActivity}" drawable="gab" />
+    
+    <!-- Review & Discovery -->
+    <item component="ComponentInfo{com.yelp.android/com.yelp.android.activities.ActivityMain}" drawable="yelp" />
+    <item component="ComponentInfo{com.joelapenna.foursquared/com.foursquare.android.MainActivity}" drawable="foursquare" />
+    <item component="ComponentInfo{com.meetup/com.meetup.MainActivity}" drawable="meetup" />
+    <item component="ComponentInfo{com.eventbrite.attendee/com.eventbrite.attendee.MainActivity}" drawable="eventbrite" />
+    <item component="ComponentInfo{com.goodreads/com.goodreads.MainActivity}" drawable="goodreads" />
+    <item component="ComponentInfo{com.letterboxd/com.letterboxd.MainActivity}" drawable="letterboxd" />
+    
+    <!-- Creator Economy -->
+    <item component="ComponentInfo{com.patreon.android/com.patreon.android.MainActivity}" drawable="patreon" />
+    
+    <!-- Video Calling -->
+    <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="google_meet" />
+    <item component="ComponentInfo{com.apple.facetime/com.apple.facetime.MainActivity}" drawable="facetime" />
+    <item component="ComponentInfo{tv.periscope.android/tv.periscope.android.MainActivity}" drawable="periscope" />
+    
+</resources>
+
