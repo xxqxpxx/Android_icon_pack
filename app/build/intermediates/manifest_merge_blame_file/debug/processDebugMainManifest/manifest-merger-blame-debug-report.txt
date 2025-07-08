@@ -20,7 +20,7 @@
 15-->[androidx.core:core:1.9.0] /Users/ahmed/.gradle/caches/transforms-3/d2c0c162eb185e1fefca43c2dd6c94ff/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:5:5-46:19
+17-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:5:5-262:19
 18        android:allowBackup="true"
 18-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -56,115 +56,493 @@
 35-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:18:17-77
 35-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:18:27-74
 36            </intent-filter>
-37        </activity> <!-- ADW Launcher Support -->
+37        </activity> <!-- Poco Launcher Support -->
 38        <activity-alias
-38-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:35:9-44:26
-39            android:name="org.adw.launcher.THEMES"
-39-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:36:13-51
+38-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:251:9-260:26
+39            android:name="com.mi.android.globallauncher.THEME"
+39-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:252:13-63
 40            android:enabled="true"
-40-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:38:13-35
+40-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:254:13-35
 41            android:exported="true"
-41-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:39:13-36
+41-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:255:13-36
 42            android:targetActivity="com.iconpack.studio.MainActivity" >
-42-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:37:13-51
+42-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:253:13-51
 43            <intent-filter>
-43-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:40:13-43:29
-44                <action android:name="org.adw.launcher.THEMES" />
-44-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:41:17-66
-44-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:41:25-63
+43-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:256:13-259:29
+44                <action android:name="com.mi.android.globallauncher.THEME" />
+44-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:257:17-78
+44-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:257:25-75
 45
 46                <category android:name="android.intent.category.DEFAULT" />
 46-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
 46-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
 47            </intent-filter>
-48        </activity-alias> <!-- Icon Pack Intent Filters -->
+48        </activity-alias> <!-- Evie Launcher Support -->
 49        <activity-alias
-49-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:23:9-32:26
-50            android:name="com.iconpack.studio.ApplyTheme"
-50-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:24:13-39
+49-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:239:9-248:26
+50            android:name="is.shortcut.THEME"
+50-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:240:13-45
 51            android:enabled="true"
-51-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:26:13-35
+51-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:242:13-35
 52            android:exported="true"
-52-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:27:13-36
+52-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:243:13-36
 53            android:targetActivity="com.iconpack.studio.MainActivity" >
-53-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:25:13-51
+53-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:241:13-51
 54            <intent-filter>
-54-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:28:13-31:29
-55                <action android:name="android.intent.action.MAIN" />
-55-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:17:17-69
-55-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:17:25-66
+54-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:244:13-247:29
+55                <action android:name="is.shortcut.THEME" />
+55-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:245:17-60
+55-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:245:25-57
 56
 57                <category android:name="android.intent.category.DEFAULT" />
 57-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
 57-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
 58            </intent-filter>
-59        </activity-alias>
-60
-61        <provider
-61-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-62            android:name="androidx.startup.InitializationProvider"
-62-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
-63            android:authorities="com.iconpack.studio.androidx-startup"
-63-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
-64            android:exported="false" >
-64-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
-65            <meta-data
-65-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
-66                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-66-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
-67                android:value="androidx.startup" />
-67-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
-68            <meta-data
-68-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/ahmed/.gradle/caches/transforms-3/2b724425a8d9169a484437c98f8f29f0/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
-69                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-69-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/ahmed/.gradle/caches/transforms-3/2b724425a8d9169a484437c98f8f29f0/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
-70                android:value="androidx.startup" />
-70-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/ahmed/.gradle/caches/transforms-3/2b724425a8d9169a484437c98f8f29f0/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
-71            <meta-data
-71-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
-72                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-72-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
-73                android:value="androidx.startup" />
-73-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
-74        </provider>
-75
-76        <receiver
-76-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
-77            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-77-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
-78            android:directBootAware="false"
-78-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
-79            android:enabled="true"
-79-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
-80            android:exported="true"
-80-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
-81            android:permission="android.permission.DUMP" >
-81-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
-82            <intent-filter>
-82-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
-83                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-83-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
-83-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
-84            </intent-filter>
-85            <intent-filter>
-85-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
-86                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-86-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
-86-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
-87            </intent-filter>
-88            <intent-filter>
-88-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
-89                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-89-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
-89-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
-90            </intent-filter>
-91            <intent-filter>
-91-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
-92                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-92-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
-92-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
-93            </intent-filter>
-94        </receiver>
-95    </application>
-96
-97</manifest>
+59        </activity-alias> <!-- Hyperion Launcher Support -->
+60        <activity-alias
+60-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:227:9-236:26
+61            android:name="projekt.launcher.THEME"
+61-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:228:13-50
+62            android:enabled="true"
+62-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:230:13-35
+63            android:exported="true"
+63-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:231:13-36
+64            android:targetActivity="com.iconpack.studio.MainActivity" >
+64-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:229:13-51
+65            <intent-filter>
+65-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:232:13-235:29
+66                <action android:name="projekt.launcher.THEME" />
+66-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:233:17-65
+66-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:233:25-62
+67
+68                <category android:name="android.intent.category.DEFAULT" />
+68-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+68-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+69            </intent-filter>
+70        </activity-alias> <!-- Rootless Pixel Launcher Support -->
+71        <activity-alias
+71-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:215:9-224:26
+72            android:name="amirz.rootless.nexuslauncher.THEME"
+72-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:216:13-62
+73            android:enabled="true"
+73-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:218:13-35
+74            android:exported="true"
+74-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:219:13-36
+75            android:targetActivity="com.iconpack.studio.MainActivity" >
+75-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:217:13-51
+76            <intent-filter>
+76-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:220:13-223:29
+77                <action android:name="amirz.rootless.nexuslauncher.THEME" />
+77-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:221:17-77
+77-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:221:25-74
+78
+79                <category android:name="android.intent.category.DEFAULT" />
+79-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+79-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+80            </intent-filter>
+81        </activity-alias> <!-- Niagara Launcher Support -->
+82        <activity-alias
+82-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:203:9-212:26
+83            android:name="bitpit.launcher.THEME"
+83-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:204:13-49
+84            android:enabled="true"
+84-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:206:13-35
+85            android:exported="true"
+85-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:207:13-36
+86            android:targetActivity="com.iconpack.studio.MainActivity" >
+86-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:205:13-51
+87            <intent-filter>
+87-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:208:13-211:29
+88                <action android:name="bitpit.launcher.THEME" />
+88-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:209:17-64
+88-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:209:25-61
+89
+90                <category android:name="android.intent.category.DEFAULT" />
+90-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+90-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+91            </intent-filter>
+92        </activity-alias> <!-- Microsoft Launcher Support -->
+93        <activity-alias
+93-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:191:9-200:26
+94            android:name="com.microsoft.launcher.THEME"
+94-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:192:13-56
+95            android:enabled="true"
+95-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:194:13-35
+96            android:exported="true"
+96-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:195:13-36
+97            android:targetActivity="com.iconpack.studio.MainActivity" >
+97-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:193:13-51
+98            <intent-filter>
+98-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:196:13-199:29
+99                <action android:name="com.microsoft.launcher.THEME" />
+99-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:197:17-71
+99-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:197:25-68
+100
+101                <category android:name="android.intent.category.DEFAULT" />
+101-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+101-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+102            </intent-filter>
+103        </activity-alias> <!-- KISS Launcher Support -->
+104        <activity-alias
+104-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:179:9-188:26
+105            android:name="fr.neamar.kiss.THEME"
+105-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:180:13-48
+106            android:enabled="true"
+106-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:182:13-35
+107            android:exported="true"
+107-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:183:13-36
+108            android:targetActivity="com.iconpack.studio.MainActivity" >
+108-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:181:13-51
+109            <intent-filter>
+109-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:184:13-187:29
+110                <action android:name="fr.neamar.kiss.THEME" />
+110-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:185:17-63
+110-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:185:25-60
+111
+112                <category android:name="android.intent.category.DEFAULT" />
+112-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+112-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+113            </intent-filter>
+114        </activity-alias> <!-- Lawnchair Launcher Support -->
+115        <activity-alias
+115-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:167:9-176:26
+116            android:name="ch.deletescape.lawnchair.THEME"
+116-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:168:13-58
+117            android:enabled="true"
+117-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:170:13-35
+118            android:exported="true"
+118-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:171:13-36
+119            android:targetActivity="com.iconpack.studio.MainActivity" >
+119-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:169:13-51
+120            <intent-filter>
+120-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:172:13-175:29
+121                <action android:name="ch.deletescape.lawnchair.THEME" />
+121-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:173:17-73
+121-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:173:25-70
+122
+123                <category android:name="android.intent.category.DEFAULT" />
+123-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+123-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+124            </intent-filter>
+125        </activity-alias> <!-- Next Launcher Support -->
+126        <activity-alias
+126-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:155:9-164:26
+127            android:name="com.gtp.nextlauncher.theme"
+127-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:156:13-54
+128            android:enabled="true"
+128-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:158:13-35
+129            android:exported="true"
+129-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:159:13-36
+130            android:targetActivity="com.iconpack.studio.MainActivity" >
+130-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:157:13-51
+131            <intent-filter>
+131-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:160:13-163:29
+132                <action android:name="com.gtp.nextlauncher.theme" />
+132-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:161:17-69
+132-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:161:25-66
+133
+134                <category android:name="android.intent.category.DEFAULT" />
+134-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+134-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+135            </intent-filter>
+136        </activity-alias> <!-- Solo Launcher Support -->
+137        <activity-alias
+137-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:143:9-152:26
+138            android:name="home.solo.launcher.free.THEME"
+138-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:144:13-57
+139            android:enabled="true"
+139-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:146:13-35
+140            android:exported="true"
+140-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:147:13-36
+141            android:targetActivity="com.iconpack.studio.MainActivity" >
+141-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:145:13-51
+142            <intent-filter>
+142-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:148:13-151:29
+143                <action android:name="home.solo.launcher.free.THEME" />
+143-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:149:17-72
+143-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:149:25-69
+144
+145                <category android:name="android.intent.category.DEFAULT" />
+145-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+145-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+146            </intent-filter>
+147        </activity-alias> <!-- HTC Sense Support -->
+148        <activity-alias
+148-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:131:9-140:26
+149            android:name="com.htc.launcher.theme"
+149-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:132:13-50
+150            android:enabled="true"
+150-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:134:13-35
+151            android:exported="true"
+151-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:135:13-36
+152            android:targetActivity="com.iconpack.studio.MainActivity" >
+152-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:133:13-51
+153            <intent-filter>
+153-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:136:13-139:29
+154                <action android:name="com.htc.launcher.theme" />
+154-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:137:17-65
+154-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:137:25-62
+155
+156                <category android:name="android.intent.category.DEFAULT" />
+156-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+156-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+157            </intent-filter>
+158        </activity-alias> <!-- Turbo Launcher Support -->
+159        <activity-alias
+159-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:119:9-128:26
+160            android:name="com.phonemetra.turbo.launcher.THEME"
+160-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:120:13-63
+161            android:enabled="true"
+161-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:122:13-35
+162            android:exported="true"
+162-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:123:13-36
+163            android:targetActivity="com.iconpack.studio.MainActivity" >
+163-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:121:13-51
+164            <intent-filter>
+164-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:124:13-127:29
+165                <action android:name="com.phonemetra.turbo.launcher.THEME" />
+165-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:125:17-78
+165-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:125:25-75
+166
+167                <category android:name="android.intent.category.DEFAULT" />
+167-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+167-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+168            </intent-filter>
+169        </activity-alias> <!-- Aviate Launcher Support -->
+170        <activity-alias
+170-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:107:9-116:26
+171            android:name="com.tul.aviate.THEME"
+171-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:108:13-48
+172            android:enabled="true"
+172-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:110:13-35
+173            android:exported="true"
+173-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:111:13-36
+174            android:targetActivity="com.iconpack.studio.MainActivity" >
+174-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:109:13-51
+175            <intent-filter>
+175-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:112:13-115:29
+176                <action android:name="com.tul.aviate.THEME" />
+176-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:113:17-63
+176-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:113:25-60
+177
+178                <category android:name="android.intent.category.DEFAULT" />
+178-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+178-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+179            </intent-filter>
+180        </activity-alias> <!-- Smart Launcher Support -->
+181        <activity-alias
+181-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:95:9-104:26
+182            android:name="ginlemon.flowerfree.THEME"
+182-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:96:13-53
+183            android:enabled="true"
+183-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:98:13-35
+184            android:exported="true"
+184-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:99:13-36
+185            android:targetActivity="com.iconpack.studio.MainActivity" >
+185-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:97:13-51
+186            <intent-filter>
+186-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:100:13-103:29
+187                <action android:name="ginlemon.flowerfree.THEME" />
+187-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:101:17-68
+187-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:101:25-65
+188
+189                <category android:name="android.intent.category.DEFAULT" />
+189-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+189-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+190            </intent-filter>
+191        </activity-alias> <!-- GO Launcher Support -->
+192        <activity-alias
+192-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:83:9-92:26
+193            android:name="com.gau.go.launcherex.theme"
+193-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:84:13-55
+194            android:enabled="true"
+194-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:86:13-35
+195            android:exported="true"
+195-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:87:13-36
+196            android:targetActivity="com.iconpack.studio.MainActivity" >
+196-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:85:13-51
+197            <intent-filter>
+197-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:88:13-91:29
+198                <action android:name="com.gau.go.launcherex.theme" />
+198-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:89:17-70
+198-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:89:25-67
+199
+200                <category android:name="android.intent.category.DEFAULT" />
+200-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+200-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+201            </intent-filter>
+202        </activity-alias> <!-- Action Launcher Support -->
+203        <activity-alias
+203-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:71:9-80:26
+204            android:name="com.actionlauncher.playstore.THEME"
+204-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:72:13-62
+205            android:enabled="true"
+205-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:74:13-35
+206            android:exported="true"
+206-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:75:13-36
+207            android:targetActivity="com.iconpack.studio.MainActivity" >
+207-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:73:13-51
+208            <intent-filter>
+208-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:76:13-79:29
+209                <action android:name="com.actionlauncher.playstore.THEME" />
+209-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:77:17-77
+209-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:77:25-74
+210
+211                <category android:name="android.intent.category.DEFAULT" />
+211-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+211-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+212            </intent-filter>
+213        </activity-alias> <!-- Apex Launcher Support -->
+214        <activity-alias
+214-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:59:9-68:26
+215            android:name="com.anddoes.launcher.THEME"
+215-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:60:13-54
+216            android:enabled="true"
+216-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:62:13-35
+217            android:exported="true"
+217-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:63:13-36
+218            android:targetActivity="com.iconpack.studio.MainActivity" >
+218-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:61:13-51
+219            <intent-filter>
+219-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:64:13-67:29
+220                <action android:name="com.anddoes.launcher.THEME" />
+220-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:65:17-69
+220-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:65:25-66
+221
+222                <category android:name="android.intent.category.DEFAULT" />
+222-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+222-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+223            </intent-filter>
+224        </activity-alias> <!-- Nova Launcher Support -->
+225        <activity-alias
+225-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:47:9-56:26
+226            android:name="com.teslacoilsw.launcher.THEME"
+226-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:48:13-58
+227            android:enabled="true"
+227-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:50:13-35
+228            android:exported="true"
+228-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:51:13-36
+229            android:targetActivity="com.iconpack.studio.MainActivity" >
+229-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:49:13-51
+230            <intent-filter>
+230-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:52:13-55:29
+231                <action android:name="com.teslacoilsw.launcher.THEME" />
+231-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:53:17-73
+231-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:53:25-70
+232
+233                <category android:name="android.intent.category.DEFAULT" />
+233-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+233-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+234            </intent-filter>
+235        </activity-alias> <!-- ADW Launcher Support -->
+236        <activity-alias
+236-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:35:9-44:26
+237            android:name="org.adw.launcher.THEMES"
+237-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:36:13-51
+238            android:enabled="true"
+238-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:38:13-35
+239            android:exported="true"
+239-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:39:13-36
+240            android:targetActivity="com.iconpack.studio.MainActivity" >
+240-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:37:13-51
+241            <intent-filter>
+241-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:40:13-43:29
+242                <action android:name="org.adw.launcher.THEMES" />
+242-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:41:17-66
+242-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:41:25-63
+243
+244                <category android:name="android.intent.category.DEFAULT" />
+244-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+244-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+245            </intent-filter>
+246        </activity-alias> <!-- Icon Pack Intent Filters -->
+247        <activity-alias
+247-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:23:9-32:26
+248            android:name="com.iconpack.studio.ApplyTheme"
+248-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:24:13-39
+249            android:enabled="true"
+249-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:26:13-35
+250            android:exported="true"
+250-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:27:13-36
+251            android:targetActivity="com.iconpack.studio.MainActivity" >
+251-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:25:13-51
+252            <intent-filter>
+252-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:28:13-31:29
+253                <action android:name="android.intent.action.MAIN" />
+253-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:17:17-69
+253-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:17:25-66
+254
+255                <category android:name="android.intent.category.DEFAULT" />
+255-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:17-76
+255-->/Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:30:27-73
+256            </intent-filter>
+257        </activity-alias>
+258
+259        <provider
+259-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+260            android:name="androidx.startup.InitializationProvider"
+260-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+261            android:authorities="com.iconpack.studio.androidx-startup"
+261-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+262            android:exported="false" >
+262-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+263            <meta-data
+263-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+264                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+264-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+265                android:value="androidx.startup" />
+265-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+266            <meta-data
+266-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/ahmed/.gradle/caches/transforms-3/2b724425a8d9169a484437c98f8f29f0/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+267                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+267-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/ahmed/.gradle/caches/transforms-3/2b724425a8d9169a484437c98f8f29f0/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+268                android:value="androidx.startup" />
+268-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/ahmed/.gradle/caches/transforms-3/2b724425a8d9169a484437c98f8f29f0/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+269            <meta-data
+269-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+270                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+270-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+271                android:value="androidx.startup" />
+271-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+272        </provider>
+273
+274        <receiver
+274-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+275            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+275-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+276            android:directBootAware="false"
+276-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+277            android:enabled="true"
+277-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+278            android:exported="true"
+278-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+279            android:permission="android.permission.DUMP" >
+279-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+280            <intent-filter>
+280-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+281                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+281-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+281-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+282            </intent-filter>
+283            <intent-filter>
+283-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+284                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+284-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+284-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+285            </intent-filter>
+286            <intent-filter>
+286-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+287                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+287-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+287-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+288            </intent-filter>
+289            <intent-filter>
+289-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+290                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+290-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+290-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/ahmed/.gradle/caches/transforms-3/6cc7b3bc04d73327bebcfd74546f4874/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+291            </intent-filter>
+292        </receiver>
+293    </application>
+294
+295</manifest>

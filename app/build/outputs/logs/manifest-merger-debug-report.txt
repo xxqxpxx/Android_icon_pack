@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:2:1-48:12
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:2:1-264:12
+INJECTED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:2:1-264:12
+INJECTED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:2:1-264:12
+INJECTED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:2:1-264:12
 MERGED from [androidx.databinding:viewbinding:8.3.2] /Users/ahmed/.gradle/caches/transforms-3/d874ecd9b3fa61bab2b6b96b73e296de/transformed/viewbinding-8.3.2/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.10.0] /Users/ahmed/.gradle/caches/transforms-3/b896a631d1c64b953d63d26d82163a8c/transformed/material-1.10.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/ahmed/.gradle/caches/transforms-3/4fd93af25d39d31d50524d0f6d19a3c4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
@@ -57,8 +57,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/ahmed/.gr
 	xmlns:android
 		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:5:5-46:19
-INJECTED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:5:5-46:19
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:5:5-262:19
+INJECTED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:5:5-262:19
 MERGED from [com.google.android.material:material:1.10.0] /Users/ahmed/.gradle/caches/transforms-3/b896a631d1c64b953d63d26d82163a8c/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.10.0] /Users/ahmed/.gradle/caches/transforms-3/b896a631d1c64b953d63d26d82163a8c/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/ahmed/.gradle/caches/transforms-3/4fd93af25d39d31d50524d0f6d19a3c4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -141,6 +141,294 @@ action#org.adw.launcher.THEMES
 ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:41:17-66
 	android:name
 		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:41:25-63
+activity-alias#com.teslacoilsw.launcher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:47:9-56:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:51:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:49:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:48:13-58
+intent-filter#action:name:com.teslacoilsw.launcher.THEME+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:52:13-55:29
+action#com.teslacoilsw.launcher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:53:17-73
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:53:25-70
+activity-alias#com.anddoes.launcher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:59:9-68:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:63:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:61:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:60:13-54
+intent-filter#action:name:com.anddoes.launcher.THEME+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:64:13-67:29
+action#com.anddoes.launcher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:65:17-69
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:65:25-66
+activity-alias#com.actionlauncher.playstore.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:71:9-80:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:74:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:75:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:73:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:72:13-62
+intent-filter#action:name:com.actionlauncher.playstore.THEME+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:76:13-79:29
+action#com.actionlauncher.playstore.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:77:17-77
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:77:25-74
+activity-alias#com.gau.go.launcherex.theme
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:83:9-92:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:86:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:87:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:85:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:84:13-55
+intent-filter#action:name:com.gau.go.launcherex.theme+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:88:13-91:29
+action#com.gau.go.launcherex.theme
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:89:17-70
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:89:25-67
+activity-alias#ginlemon.flowerfree.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:95:9-104:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:98:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:99:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:97:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:96:13-53
+intent-filter#action:name:ginlemon.flowerfree.THEME+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:100:13-103:29
+action#ginlemon.flowerfree.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:101:17-68
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:101:25-65
+activity-alias#com.tul.aviate.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:107:9-116:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:110:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:111:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:109:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:108:13-48
+intent-filter#action:name:com.tul.aviate.THEME+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:112:13-115:29
+action#com.tul.aviate.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:113:17-63
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:113:25-60
+activity-alias#com.phonemetra.turbo.launcher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:119:9-128:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:122:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:123:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:121:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:120:13-63
+intent-filter#action:name:com.phonemetra.turbo.launcher.THEME+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:124:13-127:29
+action#com.phonemetra.turbo.launcher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:125:17-78
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:125:25-75
+activity-alias#com.htc.launcher.theme
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:131:9-140:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:134:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:135:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:133:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:132:13-50
+intent-filter#action:name:com.htc.launcher.theme+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:136:13-139:29
+action#com.htc.launcher.theme
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:137:17-65
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:137:25-62
+activity-alias#home.solo.launcher.free.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:143:9-152:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:146:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:147:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:145:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:144:13-57
+intent-filter#action:name:home.solo.launcher.free.THEME+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:148:13-151:29
+action#home.solo.launcher.free.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:149:17-72
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:149:25-69
+activity-alias#com.gtp.nextlauncher.theme
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:155:9-164:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:158:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:159:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:157:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:156:13-54
+intent-filter#action:name:com.gtp.nextlauncher.theme+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:160:13-163:29
+action#com.gtp.nextlauncher.theme
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:161:17-69
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:161:25-66
+activity-alias#ch.deletescape.lawnchair.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:167:9-176:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:170:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:171:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:169:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:168:13-58
+intent-filter#action:name:ch.deletescape.lawnchair.THEME+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:172:13-175:29
+action#ch.deletescape.lawnchair.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:173:17-73
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:173:25-70
+activity-alias#fr.neamar.kiss.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:179:9-188:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:182:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:183:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:181:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:180:13-48
+intent-filter#action:name:fr.neamar.kiss.THEME+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:184:13-187:29
+action#fr.neamar.kiss.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:185:17-63
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:185:25-60
+activity-alias#com.microsoft.launcher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:191:9-200:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:194:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:195:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:193:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:192:13-56
+intent-filter#action:name:com.microsoft.launcher.THEME+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:196:13-199:29
+action#com.microsoft.launcher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:197:17-71
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:197:25-68
+activity-alias#bitpit.launcher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:203:9-212:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:206:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:207:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:205:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:204:13-49
+intent-filter#action:name:bitpit.launcher.THEME+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:208:13-211:29
+action#bitpit.launcher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:209:17-64
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:209:25-61
+activity-alias#amirz.rootless.nexuslauncher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:215:9-224:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:218:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:219:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:217:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:216:13-62
+intent-filter#action:name:amirz.rootless.nexuslauncher.THEME+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:220:13-223:29
+action#amirz.rootless.nexuslauncher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:221:17-77
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:221:25-74
+activity-alias#projekt.launcher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:227:9-236:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:230:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:231:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:229:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:228:13-50
+intent-filter#action:name:projekt.launcher.THEME+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:232:13-235:29
+action#projekt.launcher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:233:17-65
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:233:25-62
+activity-alias#is.shortcut.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:239:9-248:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:242:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:243:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:241:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:240:13-45
+intent-filter#action:name:is.shortcut.THEME+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:244:13-247:29
+action#is.shortcut.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:245:17-60
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:245:25-57
+activity-alias#com.mi.android.globallauncher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:251:9-260:26
+	android:enabled
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:254:13-35
+	android:exported
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:255:13-36
+	android:targetActivity
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:253:13-51
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:252:13-63
+intent-filter#action:name:com.mi.android.globallauncher.THEME+category:name:android.intent.category.DEFAULT
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:256:13-259:29
+action#com.mi.android.globallauncher.THEME
+ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:257:17-78
+	android:name
+		ADDED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml:257:25-75
 uses-sdk
 INJECTED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/AndroidManifest.xml

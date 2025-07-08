@@ -34,7 +34,205 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity> <!-- ADW Launcher Support -->
+        </activity> <!-- Poco Launcher Support -->
+        <activity-alias
+            android:name="com.mi.android.globallauncher.THEME"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="com.mi.android.globallauncher.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- Evie Launcher Support -->
+        <activity-alias
+            android:name="is.shortcut.THEME"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="is.shortcut.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- Hyperion Launcher Support -->
+        <activity-alias
+            android:name="projekt.launcher.THEME"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="projekt.launcher.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- Rootless Pixel Launcher Support -->
+        <activity-alias
+            android:name="amirz.rootless.nexuslauncher.THEME"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="amirz.rootless.nexuslauncher.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- Niagara Launcher Support -->
+        <activity-alias
+            android:name="bitpit.launcher.THEME"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="bitpit.launcher.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- Microsoft Launcher Support -->
+        <activity-alias
+            android:name="com.microsoft.launcher.THEME"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="com.microsoft.launcher.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- KISS Launcher Support -->
+        <activity-alias
+            android:name="fr.neamar.kiss.THEME"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="fr.neamar.kiss.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- Lawnchair Launcher Support -->
+        <activity-alias
+            android:name="ch.deletescape.lawnchair.THEME"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="ch.deletescape.lawnchair.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- Next Launcher Support -->
+        <activity-alias
+            android:name="com.gtp.nextlauncher.theme"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="com.gtp.nextlauncher.theme" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- Solo Launcher Support -->
+        <activity-alias
+            android:name="home.solo.launcher.free.THEME"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="home.solo.launcher.free.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- HTC Sense Support -->
+        <activity-alias
+            android:name="com.htc.launcher.theme"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="com.htc.launcher.theme" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- Turbo Launcher Support -->
+        <activity-alias
+            android:name="com.phonemetra.turbo.launcher.THEME"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="com.phonemetra.turbo.launcher.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- Aviate Launcher Support -->
+        <activity-alias
+            android:name="com.tul.aviate.THEME"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="com.tul.aviate.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- Smart Launcher Support -->
+        <activity-alias
+            android:name="ginlemon.flowerfree.THEME"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="ginlemon.flowerfree.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- GO Launcher Support -->
+        <activity-alias
+            android:name="com.gau.go.launcherex.theme"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="com.gau.go.launcherex.theme" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- Action Launcher Support -->
+        <activity-alias
+            android:name="com.actionlauncher.playstore.THEME"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="com.actionlauncher.playstore.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- Apex Launcher Support -->
+        <activity-alias
+            android:name="com.anddoes.launcher.THEME"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="com.anddoes.launcher.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- Nova Launcher Support -->
+        <activity-alias
+            android:name="com.teslacoilsw.launcher.THEME"
+            android:enabled="true"
+            android:exported="true"
+            android:targetActivity="com.iconpack.studio.MainActivity" >
+            <intent-filter>
+                <action android:name="com.teslacoilsw.launcher.THEME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias> <!-- ADW Launcher Support -->
         <activity-alias
             android:name="org.adw.launcher.THEMES"
             android:enabled="true"

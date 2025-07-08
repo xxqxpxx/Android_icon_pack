@@ -18,3 +18,4 @@ local.properties
 /.idea/
 /app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/69d85910ac327ebe91df77170db1a34d2b474c15e63570d991adb14a4b9e299f_0.jar
 /app/build/*
+/app/release/app-release.aab
