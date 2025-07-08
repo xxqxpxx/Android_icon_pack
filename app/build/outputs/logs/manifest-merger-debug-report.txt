@@ -333,7 +333,7 @@ ADDED from [androidx.core:core:1.9.0] /Users/ahmed/.gradle/caches/transforms-3/d
 		ADDED from [androidx.core:core:1.9.0] /Users/ahmed/.gradle/caches/transforms-3/d2c0c162eb185e1fefca43c2dd6c94ff/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
 	android:name
 		ADDED from [androidx.core:core:1.9.0] /Users/ahmed/.gradle/caches/transforms-3/d2c0c162eb185e1fefca43c2dd6c94ff/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
-permission#com.iconpack.studio.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+permission#com.iconpack.studio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.9.0] /Users/ahmed/.gradle/caches/transforms-3/d2c0c162eb185e1fefca43c2dd6c94ff/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
 		ADDED from [androidx.core:core:1.9.0] /Users/ahmed/.gradle/caches/transforms-3/d2c0c162eb185e1fefca43c2dd6c94ff/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
@@ -343,7 +343,7 @@ uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.9.0] /Users/ahmed/.gradle/caches/transforms-3/d2c0c162eb185e1fefca43c2dd6c94ff/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.9.0] /Users/ahmed/.gradle/caches/transforms-3/d2c0c162eb185e1fefca43c2dd6c94ff/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
-uses-permission#com.iconpack.studio.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+uses-permission#com.iconpack.studio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.9.0] /Users/ahmed/.gradle/caches/transforms-3/d2c0c162eb185e1fefca43c2dd6c94ff/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.9.0] /Users/ahmed/.gradle/caches/transforms-3/d2c0c162eb185e1fefca43c2dd6c94ff/transformed/core-1.9.0/AndroidManifest.xml:26:22-94

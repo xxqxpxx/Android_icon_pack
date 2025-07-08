@@ -4,7 +4,7 @@
     "type": "PROCESSED_RES",
     "kind": "Directory"
   },
-  "applicationId": "com.iconpack.studio.debug",
+  "applicationId": "com.iconpack.studio",
   "variantName": "debug",
   "elements": [
     {
@@ -12,7 +12,7 @@
       "filters": [],
       "attributes": [],
       "versionCode": 2,
-      "versionName": "2.0-debug",
+      "versionName": "2.0",
       "outputFile": "resources-debug.ap_"
     }
   ],

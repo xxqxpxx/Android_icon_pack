@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.iconpack.studio.debug"
+    package="com.iconpack.studio"
     android:versionCode="2"
-    android:versionName="2.0-debug" >
+    android:versionName="2.0" >
 
     <uses-sdk
         android:minSdkVersion="21"
         android:targetSdkVersion="34" />
 
     <permission
-        android:name="com.iconpack.studio.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.iconpack.studio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.iconpack.studio.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.iconpack.studio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:allowBackup="true"
@@ -119,7 +119,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.iconpack.studio.debug.androidx-startup"
+            android:authorities="com.iconpack.studio.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

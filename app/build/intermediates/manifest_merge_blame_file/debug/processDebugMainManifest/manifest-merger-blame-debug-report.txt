@@ -1,8 +1,8 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.iconpack.studio.debug"
+3    package="com.iconpack.studio"
 4    android:versionCode="2"
-5    android:versionName="2.0-debug" >
+5    android:versionName="2.0" >
 6
 7    <uses-sdk
 7-->/Users/ahmed/Downloads/home/ubuntu/android-icon-pack/app/src/main/AndroidManifest.xml:7:5-9:41
@@ -13,12 +13,12 @@
 10
 11    <permission
 11-->[androidx.core:core:1.9.0] /Users/ahmed/.gradle/caches/transforms-3/d2c0c162eb185e1fefca43c2dd6c94ff/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
-12        android:name="com.iconpack.studio.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12        android:name="com.iconpack.studio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
 12-->[androidx.core:core:1.9.0] /Users/ahmed/.gradle/caches/transforms-3/d2c0c162eb185e1fefca43c2dd6c94ff/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
 13        android:protectionLevel="signature" />
 13-->[androidx.core:core:1.9.0] /Users/ahmed/.gradle/caches/transforms-3/d2c0c162eb185e1fefca43c2dd6c94ff/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
 14
-15    <uses-permission android:name="com.iconpack.studio.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15    <uses-permission android:name="com.iconpack.studio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 15-->[androidx.core:core:1.9.0] /Users/ahmed/.gradle/caches/transforms-3/d2c0c162eb185e1fefca43c2dd6c94ff/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
 15-->[androidx.core:core:1.9.0] /Users/ahmed/.gradle/caches/transforms-3/d2c0c162eb185e1fefca43c2dd6c94ff/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
 16
@@ -209,7 +209,7 @@
 120-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 121            android:name="androidx.startup.InitializationProvider"
 121-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
-122            android:authorities="com.iconpack.studio.debug.androidx-startup"
+122            android:authorities="com.iconpack.studio.androidx-startup"
 122-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
 123            android:exported="false" >
 123-->[androidx.emoji2:emoji2:1.2.0] /Users/ahmed/.gradle/caches/transforms-3/b7c6173981de46e52496368c16e047f8/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37

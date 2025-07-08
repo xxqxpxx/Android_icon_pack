@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "com.iconpack.studio.debug",
+  "applicationId": "com.iconpack.studio",
   "variantName": "debug",
   "elements": []
 }

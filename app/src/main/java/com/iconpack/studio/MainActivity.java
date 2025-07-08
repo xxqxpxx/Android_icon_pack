@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
         iconList.add(new IconItem("Downloads", R.drawable.downloads, "com.android.providers.downloads.ui"));
         
         // Google Apps
-        iconList.add(new IconItem("Chrome", R.drawable.chrome, "com.android.chrome"));
+        iconList.add(new IconItem("Chrome", R.drawable.google_chrome, "com.android.chrome"));
         iconList.add(new IconItem("Gmail", R.drawable.gmail, "com.google.android.gm"));
         iconList.add(new IconItem("Maps", R.drawable.maps, "com.google.android.apps.maps"));
         iconList.add(new IconItem("YouTube", R.drawable.youtube, "com.google.android.youtube"));
@@ -254,6 +254,33 @@ public class MainActivity extends AppCompatActivity {
         // Retail Shopping Apps
         iconList.add(new IconItem("Target", R.drawable.target, "com.target.ui"));
         iconList.add(new IconItem("Walmart", R.drawable.walmart, "com.walmart.android"));
+        
+        // Additional Android Apps
+        iconList.add(new IconItem("Photos", R.drawable.photos, "com.google.android.apps.photos"));
+        iconList.add(new IconItem("Recorder", R.drawable.recorder, "com.google.android.soundrecorder"));
+        iconList.add(new IconItem("Sleep", R.drawable.sleep, "com.urbandroid.sleep"));
+        iconList.add(new IconItem("Safety", R.drawable.safety, "com.google.android.apps.safetyhub"));
+        iconList.add(new IconItem("Ruler", R.drawable.ruler, "com.google.android.apps.ruler"));
+        iconList.add(new IconItem("Calendar", R.drawable.calendar, "com.google.android.calendar"));
+        iconList.add(new IconItem("Pixel Tips", R.drawable.pixel_tips, "com.google.android.apps.tips"));
+        iconList.add(new IconItem("Reading Mode", R.drawable.reading_mode, "com.google.android.accessibility.reader"));
+        iconList.add(new IconItem("Watch", R.drawable.watch, "com.google.android.wearable.app"));
+        
+        // Popular Apps from Screenshots
+        iconList.add(new IconItem("TickTick", R.drawable.ticktick, "com.ticktick.task"));
+        iconList.add(new IconItem("Binance", R.drawable.binance, "com.binance.dev"));
+        iconList.add(new IconItem("Authenticator", R.drawable.authenticator, "com.google.android.apps.authenticator2"));
+        iconList.add(new IconItem("Truecaller", R.drawable.truecaller, "com.truecaller"));
+        iconList.add(new IconItem("Translate", R.drawable.translate, "com.google.android.apps.translate"));
+        iconList.add(new IconItem("Vezeeta", R.drawable.vezeeta, "com.vezeeta.patient"));
+        iconList.add(new IconItem("Niagara Launcher", R.drawable.niagara_launcher, "bitpit.launcher"));
+        iconList.add(new IconItem("Obsidian", R.drawable.obsidian, "md.obsidian"));
+        iconList.add(new IconItem("Pixel IMS", R.drawable.pixel_ims, "com.shannon.imsservice"));
+        iconList.add(new IconItem("Shizuku", R.drawable.shizuku, "moe.shizuku.privileged.api"));
+        iconList.add(new IconItem("Xiaomi Home", R.drawable.xiaomi_home, "com.xiaomi.smarthome"));
+        iconList.add(new IconItem("Aves", R.drawable.aves, "deckers.thibault.aves"));
+        iconList.add(new IconItem("Wear Installer", R.drawable.wear_installer, "com.google.android.wearable.installer"));
+        iconList.add(new IconItem("Notta", R.drawable.notta, "com.langogo.notta"));
         
         // Other Popular Apps
         iconList.add(new IconItem("Amazon", R.drawable.amazon, "com.amazon.mShop.android.shopping"));
