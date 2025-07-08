@@ -5,7 +5,35 @@
     android:viewportWidth="24"
     android:viewportHeight="24">
     
+    <!-- Rounded Square Background -->
     <path
         android:fillColor="#1877F2"
-        android:pathData="M24,12.073c0,-6.627 -5.373,-12 -12,-12s-12,5.373 -12,12c0,5.99 4.388,10.954 10.125,11.854v-8.385H7.078v-3.47h3.047V9.43c0,-3.007 1.792,-4.669 4.533,-4.669c1.312,0 2.686,0.235 2.686,0.235v2.953H15.83c-1.491,0 -1.956,0.925 -1.956,1.874v2.25h3.328l-0.532,3.47h-2.796v8.385C19.612,23.027 24,18.062 24,12.073z"/>
+        android:pathData="M3,3
+                         Q3,1 5,1
+                         L19,1
+                         Q21,1 21,3
+                         L21,19
+                         Q21,21 19,21
+                         L5,21
+                         Q3,21 3,19
+                         Z"/>
+    
+    <!-- Facebook "f" Logo -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M13,7
+                         L13,9
+                         L15,9
+                         L15,11
+                         L13,11
+                         L13,17
+                         L11,17
+                         L11,11
+                         L9,11
+                         L9,9
+                         L11,9
+                         L11,8
+                         Q11,7 12,7
+                         L13,7
+                         Z"/>
 </vector> 

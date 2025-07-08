@@ -5,7 +5,32 @@
     android:viewportWidth="24"
     android:viewportHeight="24">
     
+    <!-- Rounded Square Background -->
     <path
         android:fillColor="#E50914"
-        android:pathData="M5.398,0v0.006c0,0.259 0.002,0.461 0.002,0.461L8.445,13.078L5.398,24H9.652l1.813,-6.462h0.035L13.3,24h4.229l-3.046,-10.922L17.528,0.467h-0.002c0,0 0.002,-0.208 0.002,-0.461v-0.006H13.3l-1.813,6.462h-0.035L9.652,0H5.398z"/>
+        android:pathData="M3,3
+                         Q3,1 5,1
+                         L19,1
+                         Q21,1 21,3
+                         L21,19
+                         Q21,21 19,21
+                         L5,21
+                         Q3,21 3,19
+                         Z"/>
+    
+    <!-- Netflix 'N' -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M7,6
+                         L9,6
+                         L9,18
+                         L7,18
+                         Z
+                         M9,6
+                         L15,18
+                         L17,18
+                         L17,6
+                         L15,6
+                         L9,18
+                         Z"/>
 </vector> 

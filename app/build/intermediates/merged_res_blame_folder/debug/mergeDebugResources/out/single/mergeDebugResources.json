@@ -1,427 +1,407 @@
 [
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_hulu.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/hulu.xml"
-    },
-    {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_binance.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/binance.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_discord_nitro.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/discord_nitro.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_lightroom.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/lightroom.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable-xxxhdpi_settings.png.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable-xxxhdpi/settings.png"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_notion.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/notion.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_x_twitter.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/x_twitter.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_zoom.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/zoom.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_tripadvisor.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/tripadvisor.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_compass.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/compass.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_github.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/github.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_doordash.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/doordash.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_dropbox.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/dropbox.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_pocket_app.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/pocket_app.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/layout_activity_main.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/layout/activity_main.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_microsoft_outlook.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/microsoft_outlook.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_cnn.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/cnn.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_ebay.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/ebay.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_deezer.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/deezer.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_stat_background.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/stat_background.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_amazon_prime.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/amazon_prime.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_threema.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/threema.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_vk.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/vk.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_obsidian.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/obsidian.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/xml_appfilter.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/xml/appfilter.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_soundcloud.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/soundcloud.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_microsoft_edge.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/microsoft_edge.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_myfitnesspal.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/myfitnesspal.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_ebay.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/ebay.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_letterboxd.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/letterboxd.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_qq.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/qq.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_dailymotion.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/dailymotion.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_vimeo.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/vimeo.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_uber_driver.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/uber_driver.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_groupme.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/groupme.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_wordpress.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/wordpress.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_target.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/target.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_google_chrome.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/google_chrome.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_kik.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/kik.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_flickr.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/flickr.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_pinterest.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/pinterest.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_vpn.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/vpn.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_skype.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/skype.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_amazon.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/amazon.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_phone.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/phone.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_booking.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/booking.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_flipboard.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/flipboard.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_cash_app.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/cash_app.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_playstore.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/playstore.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_iconupon.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/iconupon.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_maps.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/maps.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_google_maps.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/google_maps.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_etsy.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/etsy.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_messages.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/messages.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_periscope.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/periscope.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_downloads.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/downloads.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_bbc_news.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/bbc_news.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_patreon.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/patreon.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/xml_appfilter.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/xml/appfilter.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_pixel_tips.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/pixel_tips.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_venmo.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/venmo.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_discord.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/discord.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_camera.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/camera.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_authenticator.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/authenticator.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_playstation.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/playstation.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_discord_nitro.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/discord_nitro.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_mastodon.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/mastodon.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_airbnb.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/airbnb.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_apple_app_store.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/apple_app_store.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_uber.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/uber.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_safari.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/safari.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_youtube_music.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/youtube_music.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_weibo.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/weibo.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_twitch.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/twitch.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_airtable.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/airtable.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_apple_music.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/apple_music.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_sleep.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/sleep.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_coinbase.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/coinbase.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_whatsapp.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/whatsapp.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_etsy.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/etsy.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_recorder.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/recorder.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_viber.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/viber.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_starbucks.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/starbucks.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_tiktok.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/tiktok.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_todoist.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/todoist.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_mewe.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/mewe.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_flashlight.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/flashlight.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_google_meet.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/google_meet.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_viber.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/viber.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_telegram.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/telegram.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_netflix.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/netflix.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_amazon_prime.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/amazon_prime.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_duolingo.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/duolingo.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_foursquare.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/foursquare.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_vsco.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/vsco.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_google_sheets.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/google_sheets.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_snapchat.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/snapchat.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_douyin.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/douyin.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_shizuku.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/shizuku.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_iconupon.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/iconupon.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_icon_background.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/icon_background.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_chipotle.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/chipotle.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_skype.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/skype.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_calculator.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/calculator.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_vezeeta.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/vezeeta.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_ic_launcher.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/ic_launcher.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_clubhouse.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/clubhouse.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_google_docs.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/google_docs.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_vsco.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/vsco.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_eventbrite.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/eventbrite.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_teams.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/teams.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_pixel_ims.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/pixel_ims.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_settings.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/settings.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_vimeo.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/vimeo.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_pandora.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/pandora.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_paypal.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/paypal.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_microsoft_outlook.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/microsoft_outlook.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_khan_academy.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/khan_academy.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_icon_item_background.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/icon_item_background.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_evernote.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/evernote.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_news.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/news.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_adobe_creative_cloud.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/adobe_creative_cloud.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_tiktok.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/tiktok.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_kakaotalk.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/kakaotalk.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_linkedin.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/linkedin.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_google_sheets.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/google_sheets.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_icon_background.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/icon_background.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_canva.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/canva.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_instagram.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/instagram.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_weather.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/weather.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_mewe.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/mewe.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_apple_app_store.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/apple_app_store.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_eventbrite.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/eventbrite.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_todoist.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/todoist.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_niagara_launcher.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/niagara_launcher.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_messenger.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/messenger.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_iconback.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/iconback.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_canva.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/canva.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_reddit.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/reddit.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_cash_app.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/cash_app.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_microsoft_edge.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/microsoft_edge.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_dribbble.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/dribbble.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_coursera.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/coursera.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_douyin.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/douyin.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_dialog_background.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/dialog_background.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_paramount_plus.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/paramount_plus.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_dropbox.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/dropbox.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_kayak.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/kayak.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_playstore.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/playstore.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_card_background.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/card_background.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_deezer.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/deezer.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable-xxxhdpi_chrome.png.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable-xxxhdpi/chrome.png"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_tumblr.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/tumblr.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_uber_driver.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/uber_driver.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_pandora.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/pandora.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_quora.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/quora.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_periscope.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/periscope.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_compass.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/compass.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_kayak.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/kayak.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_iconmask.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/iconmask.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_grubhub.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/grubhub.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_button_background.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/button_background.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable-xxxhdpi_settings.png.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable-xxxhdpi/settings.png"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_headspace.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/headspace.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_target.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/target.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_mcdonalds.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/mcdonalds.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_news.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/news.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_zoom.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/zoom.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_parler.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/parler.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_google_chrome.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/google_chrome.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_groupme.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/groupme.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_uber_eats.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/uber_eats.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_spotify.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/spotify.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_yelp.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/yelp.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_tripadvisor.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/tripadvisor.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_steam.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/steam.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_element.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/element.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/layout_dialog_apply.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/layout/dialog_apply.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_adobe_photoshop.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/adobe_photoshop.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_translate.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/translate.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_facebook.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/facebook.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_qq.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/qq.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_calculator.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/calculator.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_stack_overflow.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/stack_overflow.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_adobe_creative_cloud.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/adobe_creative_cloud.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_bbc_news.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/bbc_news.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_foursquare.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/foursquare.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_goodreads.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/goodreads.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_apple_music.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/apple_music.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/layout_dialog_apply.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/layout/dialog_apply.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_weather.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/weather.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_facetime.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/facetime.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_mastodon.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/mastodon.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_reading_mode.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/reading_mode.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_robinhood.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/robinhood.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_khan_academy.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/khan_academy.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_steam.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/steam.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_truecaller.xml.flat",
@@ -432,395 +412,411 @@
         "source": "com.iconpack.studio.app-main-34:/drawable/xiaomi_home.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_twitch.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/twitch.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_youtube.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/youtube.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_teams.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/teams.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_kik.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/kik.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_soundcloud.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/soundcloud.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_cnn.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/cnn.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_photos.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/photos.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_dribbble.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/dribbble.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_safety.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/safety.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_expedia.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/expedia.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_ticktick.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/ticktick.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_contacts.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/contacts.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_icon_item_background.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/icon_item_background.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_airbnb.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/airbnb.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_recorder.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/recorder.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_lyft.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/lyft.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_button_secondary_background.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/button_secondary_background.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_tumblr.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/tumblr.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_xbox.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/xbox.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_dominos_pizza.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/dominos_pizza.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_messenger.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/messenger.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_google_maps.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/google_maps.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_yelp.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/yelp.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_telegram.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/telegram.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_element.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/element.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_pocket_app.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/pocket_app.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_duolingo.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/duolingo.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_hbo_max.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/hbo_max.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_x_twitter.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/x_twitter.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_vk.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/vk.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_settings.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/settings.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_parler.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/parler.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_venmo.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/venmo.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_xbox.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/xbox.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_downloads.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/downloads.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_whatsapp_business.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/whatsapp_business.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_figma.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/figma.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/layout_icon_item.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/layout/icon_item.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_grubhub.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/grubhub.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_meetup.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/meetup.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_vpn.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/vpn.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_walmart.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/walmart.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_peacock.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/peacock.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_notta.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/notta.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_reddit.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/reddit.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_signal.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/signal.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_doordash.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/doordash.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_playstation.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/playstation.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_stat_background.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/stat_background.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_onedrive.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/onedrive.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_paypal.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/paypal.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_gab.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/gab.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_youtube.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/youtube.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_lastpass.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/lastpass.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_button_secondary_background.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/button_secondary_background.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_twitter.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/twitter.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_adobe_photoshop.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/adobe_photoshop.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_quora.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/quora.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable-xxxhdpi_gmail.png.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable-xxxhdpi/gmail.png"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_uber_eats.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/uber_eats.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_facetime.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/facetime.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_phone.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/phone.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_lightroom.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/lightroom.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_robinhood.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/robinhood.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_spotify.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/spotify.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_flashlight.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/flashlight.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_clock.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/clock.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_office.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/office.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_header_background.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/header_background.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_github.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/github.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_disney_plus.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/disney_plus.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_bumble.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/bumble.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_peacock.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/peacock.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_weibo.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/weibo.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_files.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/files.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_facebook.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/facebook.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_wechat.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/wechat.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_google_drive.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/google_drive.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_wordpress.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/wordpress.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_hbo_max.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/hbo_max.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_coursera.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/coursera.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_nike_run_club.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/nike_run_club.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_snapchat.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/snapchat.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_safari.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/safari.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_iconmask.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/iconmask.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_mcdonalds.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/mcdonalds.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_headspace.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/headspace.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_pinterest.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/pinterest.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_card_background.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/card_background.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_google_messages.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/google_messages.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_line.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/line.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_banking.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/banking.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_calendar.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/calendar.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_gallery.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/gallery.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_imessage.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/imessage.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_myfitnesspal.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/myfitnesspal.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_google_docs.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/google_docs.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_amazon.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/amazon.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_figma.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/figma.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_stack_overflow.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/stack_overflow.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_ruler.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/ruler.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_kakaotalk.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/kakaotalk.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_fitness.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/fitness.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable-xxxhdpi_gmail.png.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable-xxxhdpi/gmail.png"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_shopify.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/shopify.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_netflix.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/netflix.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_discord.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/discord.xml"
+    },
+    {
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_files.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/files.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_wear_installer.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/wear_installer.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_bumble.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/bumble.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_disney_plus.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/disney_plus.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_iconback.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/iconback.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_patreon.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/patreon.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_goodreads.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/goodreads.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_wickr.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/wickr.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_bereal.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/bereal.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_paramount_plus.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/paramount_plus.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_aves.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/aves.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_lastpass.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/lastpass.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_trello.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/trello.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_camera.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/camera.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_header_background.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/header_background.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_google_meet.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/google_meet.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_tinder.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/tinder.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_youtube_music.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/youtube_music.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_ic_launcher.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/ic_launcher.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_medium.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/medium.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_sleep.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/sleep.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_threads.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/threads.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_google_messages.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/google_messages.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_uber.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/uber.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_clock.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/clock.xml"
     },
     {
         "merged": "com.iconpack.studio.app-debug-32:/drawable_watch.xml.flat",
         "source": "com.iconpack.studio.app-main-34:/drawable/watch.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_line.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/line.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_wechat.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/wechat.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_banking.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/banking.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_airtable.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/airtable.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_whatsapp_business.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/whatsapp_business.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_behance.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/behance.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_fitness.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/fitness.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_gallery.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/gallery.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_signal.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/signal.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_dominos_pizza.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/dominos_pizza.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_dailymotion.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/dailymotion.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_whatsapp.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/whatsapp.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_booking.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/booking.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_safety.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/safety.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_coinbase.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/coinbase.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_lyft.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/lyft.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_slack.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/slack.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_photos.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/photos.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/layout_icon_item.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/layout/icon_item.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_music.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/music.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_gab.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/gab.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_threads.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/threads.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_imessage.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/imessage.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_starbucks.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/starbucks.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_music.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/music.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_bereal.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/bereal.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_evernote.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/evernote.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_contacts.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/contacts.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_expedia.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/expedia.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_gmail.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/gmail.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_gmail.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/gmail.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_instagram.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/instagram.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_trello.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/trello.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_medium.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/medium.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_tinder.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/tinder.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_button_background.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/button_background.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_shopify.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/shopify.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_linkedin.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/linkedin.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_nike_run_club.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/nike_run_club.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_chipotle.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/chipotle.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_letterboxd.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/letterboxd.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_slack.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/slack.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_onedrive.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/onedrive.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_maps.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/maps.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_behance.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/behance.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_threema.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/threema.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_walmart.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/walmart.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_flipboard.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/flipboard.xml"
     },
     {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_google_drive.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/google_drive.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_ruler.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/ruler.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_dialog_background.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/dialog_background.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_flickr.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/flickr.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_notion.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/notion.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_twitter.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/twitter.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_messages.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/messages.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_meetup.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/meetup.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_office.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/office.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_clubhouse.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/clubhouse.xml"
-    },
-    {
-        "merged": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-debug-32:/drawable_wickr.xml.flat",
-        "source": "/Users/ahmed/.gradle/daemon/8.4/com.iconpack.studio.app-main-34:/drawable/wickr.xml"
+        "merged": "com.iconpack.studio.app-debug-32:/drawable_hulu.xml.flat",
+        "source": "com.iconpack.studio.app-main-34:/drawable/hulu.xml"
     }
 ]

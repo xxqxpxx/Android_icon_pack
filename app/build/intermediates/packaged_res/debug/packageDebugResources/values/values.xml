@@ -1,37 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="accent_color">#FF4081</color>
-    <color name="accent_dark">#C2185B</color>
-    <color name="accent_light">#FF80AB</color>
-    <color name="background_color">#FAFAFA</color>
-    <color name="border_color">#EEEEEE</color>
-    <color name="borealis_primary">#673AB7</color>
-    <color name="card_background">#FFFFFF</color>
-    <color name="divider_color">#E0E0E0</color>
-    <color name="error_color">#F44336</color>
-    <color name="hint_text">#BDBDBD</color>
-    <color name="material_blue">#2196F3</color>
-    <color name="material_green">#4CAF50</color>
-    <color name="material_orange">#FF9800</color>
-    <color name="material_purple">#9C27B0</color>
-    <color name="material_red">#F44336</color>
-    <color name="minimal_o_primary">#9E9E9E</color>
-    <color name="primary_color">#2196F3</color>
-    <color name="primary_dark">#1976D2</color>
-    <color name="primary_light">#BBDEFB</color>
-    <color name="primary_text">#212121</color>
-    <color name="secondary_text">#757575</color>
-    <color name="semi_transparent">#80000000</color>
-    <color name="success_color">#4CAF50</color>
-    <color name="surface_color">#FFFFFF</color>
-    <color name="tigad_pro_primary">#FF5722</color>
+    <color name="accent_blue">#007AFF</color>
+    <color name="accent_color">@color/accent_blue</color>
+    <color name="accent_gray">#8E8E93</color>
+    <color name="accent_green">#34C759</color>
+    <color name="accent_orange">#FF9500</color>
+    <color name="accent_pink">#FF2D92</color>
+    <color name="accent_purple">#AF52DE</color>
+    <color name="accent_red">#FF3B30</color>
+    <color name="accent_yellow">#FFCC02</color>
+    <color name="background_color">@color/background_primary</color>
+    <color name="background_glass">#80F2F2F7</color>
+    <color name="background_glass_dark">#80000000</color>
+    <color name="background_primary">#F2F2F7</color>
+    <color name="background_primary_dark">#000000</color>
+    <color name="background_secondary">#FFFFFF</color>
+    <color name="background_secondary_dark">#1C1C1E</color>
+    <color name="border_color">@color/border_glass</color>
+    <color name="border_glass">#1A000000</color>
+    <color name="card_background">@color/card_background_glass</color>
+    <color name="card_background_glass">#CCFFFFFF</color>
+    <color name="card_background_glass_dark">#CC1C1C1E</color>
+    <color name="divider_color">@color/separator_light</color>
+    <color name="glass_blue">#4D007AFF</color>
+    <color name="glass_gray">#4D8E8E93</color>
+    <color name="glass_green">#4D34C759</color>
+    <color name="glass_orange">#4DFF9500</color>
+    <color name="glass_pink">#4DFF2D92</color>
+    <color name="glass_purple">#4DAF52DE</color>
+    <color name="glass_red">#4DFF3B30</color>
+    <color name="glass_yellow">#4DFFCC02</color>
+    <color name="glow_blue">#40007AFF</color>
+    <color name="glow_white">#80FFFFFF</color>
+    <color name="hint_text">@color/text_tertiary</color>
+    <color name="primary_color">@color/accent_blue</color>
+    <color name="primary_dark">#0051D5</color>
+    <color name="primary_light">@color/glass_blue</color>
+    <color name="primary_text">@color/text_primary</color>
+    <color name="secondary_text">@color/text_secondary</color>
+    <color name="separator_dark">#54545899</color>
+    <color name="separator_light">#3C3C434A</color>
+    <color name="shadow_light">#1A000000</color>
+    <color name="shadow_medium">#33000000</color>
+    <color name="surface_color">@color/surface_glass</color>
+    <color name="surface_glass">#99FFFFFF</color>
+    <color name="surface_glass_dark">#991C1C1E</color>
+    <color name="surface_glass_tinted">#B3F2F2F7</color>
+    <color name="system_blue_glass">#33007AFF</color>
+    <color name="system_green_glass">#3334C759</color>
+    <color name="system_indigo_glass">#335856D6</color>
+    <color name="system_orange_glass">#33FF9500</color>
+    <color name="system_pink_glass">#33FF2D92</color>
+    <color name="system_purple_glass">#33AF52DE</color>
+    <color name="system_red_glass">#33FF3B30</color>
+    <color name="system_teal_glass">#3330B0C7</color>
+    <color name="system_yellow_glass">#33FFCC02</color>
+    <color name="text_on_glass">#FFFFFF</color>
+    <color name="text_on_glass_secondary">#FFFFFFCC</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_quaternary">#3C3C432E</color>
+    <color name="text_secondary">#3C3C43</color>
+    <color name="text_secondary_dark">#EBEBF5</color>
+    <color name="text_tertiary">#3C3C4399</color>
+    <color name="text_tertiary_dark">#EBEBF599</color>
     <color name="transparent">#00000000</color>
-    <color name="warning_color">#FF9800</color>
-    <string name="app_description">Complete icon pack featuring 75+ beautifully designed icons for the most popular social media, productivity, and system apps. Includes modern icons for Instagram, TikTok, BeReal, Threads, Gmail, Chrome, and many more. Compatible with Nova Launcher, Apex, Action Launcher, and other major Android launchers.</string>
+    <color name="transparent_10">#1A000000</color>
+    <color name="transparent_20">#33000000</color>
+    <color name="transparent_30">#4D000000</color>
+    <color name="transparent_40">#66000000</color>
+    <color name="transparent_50">#80000000</color>
+    <color name="transparent_white_10">#1AFFFFFF</color>
+    <color name="transparent_white_20">#33FFFFFF</color>
+    <color name="transparent_white_30">#4DFFFFFF</color>
+    <color name="transparent_white_40">#66FFFFFF</color>
+    <color name="transparent_white_50">#80FFFFFF</color>
+    <string name="action_apply">Apply</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="action_preview">Preview</string>
+    <string name="action_rate">Rate App</string>
+    <string name="action_share">Share</string>
+    <string name="app_description">Experience the future of icon design with Liquid Glass Icons. Featuring 200+ beautifully crafted icons inspired by Apple\'s revolutionary Liquid Glass design language. Each icon features translucent glass effects, subtle depth, and fluid animations that adapt dynamically to your device. Compatible with Nova Launcher, Apex, Action Launcher, and other major Android launchers.</string>
     <string name="app_name">IconPack Studio</string>
     <string name="app_subtitle">Premium Social Media Icons</string>
     <string name="apply_icon_pack">Apply Icon Pack</string>
-    <string name="borealis_desc">Square icons with rounded corners and vibrant colors</string>
+    <string name="applying_icons">Applying Liquid Glass icons...</string>
+    <string name="category_communication">Communication</string>
+    <string name="category_finance">Finance</string>
+    <string name="category_games">Games</string>
+    <string name="category_health">Health &amp; Fitness</string>
+    <string name="category_media">Media &amp; Entertainment</string>
+    <string name="category_productivity">Productivity</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_social">Social Media</string>
+    <string name="category_system">System</string>
+    <string name="category_travel">Travel</string>
+    <string name="error_applying">Error applying icons. Please try again.</string>
+    <string name="feature_adaptive_colors">Adaptive Colors</string>
+    <string name="feature_adaptive_colors_desc">Dynamic colors that respond to lighting</string>
+    <string name="feature_fluid_animations">Fluid Animations</string>
+    <string name="feature_fluid_animations_desc">Smooth, organic motion inspired by Apple</string>
+    <string name="feature_glass_effects">Glass Effects</string>
+    <string name="feature_glass_effects_desc">Translucent layers with depth and luminosity</string>
+    <string name="feature_premium_quality">Premium Quality</string>
+    <string name="feature_premium_quality_desc">Meticulously designed with pixel-perfect precision</string>
+    <string name="glass_clear_desc">Crystal clear glass with subtle highlights</string>
+    <string name="glass_tinted_desc">Colored glass with enhanced depth and glow</string>
     <string name="icon_bereal">BeReal</string>
     <string name="icon_calculator">Calculator</string>
     <string name="icon_camera">Camera</string>
@@ -68,80 +142,169 @@
     <string name="icon_vimeo">Vimeo</string>
     <string name="icon_whatsapp">WhatsApp</string>
     <string name="icon_youtube">YouTube</string>
+    <string name="icons_applied">Icons applied successfully!</string>
     <string name="launcher_instructions">To apply this icon pack:\n\n1. Open your launcher settings\n2. Look for Icon Pack or Themes\n3. Select IconPack Studio\n4. Apply the changes</string>
+    <string name="liquid_glass_desc">Translucent icons with dynamic glass effects</string>
     <string name="manual_apply">Apply Manually</string>
-    <string name="minimal_o_desc">Clean, circular icons with minimal design</string>
     <string name="no_launcher_found">No compatible launcher found</string>
+    <string name="rate_message">Enjoying Liquid Glass Icons? Please rate us!</string>
     <string name="select_launcher">Select Launcher</string>
-    <string name="theme_borealis">Borealis</string>
-    <string name="theme_minimal_o">Minimal O</string>
-    <string name="theme_tigad_pro">Tigad Pro</string>
-    <string name="tigad_pro_desc">3D icons with depth and premium appearance</string>
+    <string name="theme_glass_clear">Glass Clear</string>
+    <string name="theme_glass_tinted">Glass Tinted</string>
+    <string name="theme_liquid_glass">Liquid Glass</string>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimary">@color/accent_blue</item>
         <item name="colorPrimaryDark">@color/primary_dark</item>
-        <item name="colorAccent">@color/accent_color</item>
-        <item name="android:windowBackground">@color/background_color</item>
-        <item name="android:textColorPrimary">@color/primary_text</item>
-        <item name="android:textColorSecondary">@color/secondary_text</item>
+        <item name="colorAccent">@color/accent_blue</item>
+        <item name="android:windowBackground">@color/background_primary</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:statusBarColor">@color/transparent_20</item>
+        <item name="android:navigationBarColor">@color/surface_glass</item>
+        <item name="android:windowLightStatusBar">true</item>
     </style>
     <style name="AppTheme.FullScreen">
         <item name="android:windowFullscreen">true</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
     </style>
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
     </style>
-    <style name="BodyText">
-        <item name="android:textSize">14sp</item>
-        <item name="android:textColor">@color/primary_text</item>
+    <style name="BodyText" parent="LiquidGlassBody">
     </style>
-    <style name="CaptionText">
-        <item name="android:textSize">12sp</item>
-        <item name="android:textColor">@color/secondary_text</item>
+    <style name="CaptionText" parent="LiquidGlassCaption">
     </style>
-    <style name="CardView">
+    <style name="CardView" parent="LiquidGlassCard">
+    </style>
+    <style name="CustomDialog" parent="LiquidGlassDialog">
+    </style>
+    <style name="HeaderText" parent="LiquidGlassTitle">
+    </style>
+    <style name="IconStyle" parent="LiquidGlassIcon">
+        <item name="android:layout_width">64dp</item>
+        <item name="android:layout_height">64dp</item>
+    </style>
+    <style name="LiquidGlassBody">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+    </style>
+    <style name="LiquidGlassButton">
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:textColor">@color/text_on_glass</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:elevation">8dp</item>
+        <item name="android:translationZ">4dp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+    <style name="LiquidGlassCaption">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/text_tertiary</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+    <style name="LiquidGlassCard">
         <item name="android:background">@drawable/card_background</item>
-        <item name="android:elevation">4dp</item>
-        <item name="android:layout_margin">8dp</item>
-        <item name="android:padding">16dp</item>
+        <item name="android:elevation">6dp</item>
+        <item name="android:translationZ">2dp</item>
+        <item name="android:layout_margin">12dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:foreground">?android:attr/selectableItemBackground</item>
     </style>
-    <style name="CustomDialog" parent="Theme.AppCompat.Light.Dialog">
-        <item name="colorPrimary">@color/primary_color</item>
-        <item name="colorAccent">@color/accent_color</item>
+    <style name="LiquidGlassDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorPrimary">@color/accent_blue</item>
+        <item name="colorAccent">@color/accent_blue</item>
         <item name="android:windowBackground">@drawable/dialog_background</item>
+        <item name="android:windowElevation">16dp</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
     </style>
-    <style name="HeaderText">
+    <style name="LiquidGlassHeader">
+        <item name="android:background">@drawable/header_background</item>
+        <item name="android:elevation">8dp</item>
+        <item name="android:translationZ">4dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:layout_margin">16dp</item>
+    </style>
+    <style name="LiquidGlassHeadline">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.01</item>
+    </style>
+    <style name="LiquidGlassIcon">
+        <item name="android:layout_width">72dp</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:background">@drawable/icon_item_background</item>
+        <item name="android:elevation">3dp</item>
+        <item name="android:translationZ">1dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:foreground">?android:attr/selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="LiquidGlassStatCard">
+        <item name="android:background">@drawable/stat_background</item>
+        <item name="android:elevation">4dp</item>
+        <item name="android:translationZ">1dp</item>
+        <item name="android:layout_margin">6dp</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:foreground">?android:attr/selectableItemBackground</item>
+    </style>
+    <style name="LiquidGlassStatLabel">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/text_tertiary</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.05</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="LiquidGlassStatNumber">
         <item name="android:textSize">24sp</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:textColor">@color/accent_blue</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:letterSpacing">-0.01</item>
     </style>
-    <style name="IconStyle">
-        <item name="android:layout_width">48dp</item>
-        <item name="android:layout_height">48dp</item>
-        <item name="android:scaleType">centerCrop</item>
-        <item name="android:background">@drawable/icon_background</item>
+    <style name="LiquidGlassSubtitle">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:alpha">0.8</item>
     </style>
-    <style name="PrimaryButton">
-        <item name="android:background">@drawable/button_background</item>
-        <item name="android:textColor">@android:color/white</item>
-        <item name="android:textSize">16sp</item>
+    <style name="LiquidGlassTitle">
+        <item name="android:textSize">32sp</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:padding">16dp</item>
-        <item name="android:elevation">4dp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+    </style>
+    <style name="PrimaryButton" parent="LiquidGlassButton">
     </style>
     <style name="SecondaryButton">
-        <item name="android:background">@drawable/button_secondary_background</item>
-        <item name="android:textColor">@color/primary_color</item>
+        <item name="android:background">@drawable/card_background</item>
+        <item name="android:textColor">@color/accent_blue</item>
         <item name="android:textSize">16sp</item>
-        <item name="android:padding">16dp</item>
-        <item name="android:elevation">2dp</item>
-    </style>
-    <style name="SubHeaderText">
-        <item name="android:textSize">18sp</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:padding">18dp</item>
+        <item name="android:elevation">4dp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="SubHeaderText" parent="LiquidGlassHeadline">
     </style>
 </resources>

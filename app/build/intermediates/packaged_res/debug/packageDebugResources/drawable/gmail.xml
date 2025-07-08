@@ -5,16 +5,57 @@
     android:viewportWidth="24"
     android:viewportHeight="24">
     
+    <!-- Rounded Square Background -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M3,3
+                         Q3,1 5,1
+                         L19,1
+                         Q21,1 21,3
+                         L21,19
+                         Q21,21 19,21
+                         L5,21
+                         Q3,21 3,19
+                         Z"/>
+    
+    <!-- Gmail Envelope -->
     <path
         android:fillColor="#EA4335"
-        android:pathData="M24,12.073c0,-0.748 -0.068,-1.469 -0.195,-2.161H12.24v4.088h6.675c-0.288,1.547 -1.164,2.854 -2.481,3.732v3.087h4.017C22.345,19.081 24,15.869 24,12.073z"/>
+        android:pathData="M6,8
+                         Q6,7 7,7
+                         L17,7
+                         Q18,7 18,8
+                         L18,15
+                         Q18,16 17,16
+                         L7,16
+                         Q6,16 6,15
+                         Z"/>
+    
+    <!-- Envelope Flap -->
     <path
-        android:fillColor="#4285F4"
-        android:pathData="M12.24,24c3.347,0 6.154,-1.112 8.202,-3.009l-4.017,-3.087c-1.107,0.745 -2.521,1.184 -4.185,1.184c-3.214,0 -5.938,-2.17 -6.906,-5.088H1.277v3.192C3.313,21.297 7.508,24 12.24,24z"/>
+        android:fillColor="#FFFFFF"
+        android:pathData="M6,8
+                         L12,12
+                         L18,8
+                         L12,11
+                         Z"/>
+    
+    <!-- Gmail 'M' -->
     <path
-        android:fillColor="#FBBC04"
-        android:pathData="M5.334,14.088c-0.248,-0.745 -0.388,-1.538 -0.388,-2.37s0.141,-1.625 0.388,-2.37V6.156H1.277C0.465,7.756 0,9.815 0,12s0.465,4.244 1.277,5.844L5.334,14.088z"/>
-    <path
-        android:fillColor="#34A853"
-        android:pathData="M12.24,4.75c1.808,0 3.433,0.625 4.709,1.85l3.526,-3.526C18.391,1.125 15.584,0 12.24,0C7.508,0 3.313,2.703 1.277,6.156l4.057,3.156C6.302,6.92 9.026,4.75 12.24,4.75z"/>
+        android:fillColor="#FFFFFF"
+        android:pathData="M9,13
+                         L9,15
+                         L10,15
+                         L10,14
+                         L11,15
+                         L12,14
+                         L13,15
+                         L14,14
+                         L14,15
+                         L15,15
+                         L15,13
+                         L14,13
+                         L12,14.5
+                         L10,13
+                         Z"/>
 </vector> 

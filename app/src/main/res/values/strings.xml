@@ -10,7 +10,17 @@
     <string name="launcher_instructions">To apply this icon pack:\n\n1. Open your launcher settings\n2. Look for Icon Pack or Themes\n3. Select IconPack Studio\n4. Apply the changes</string>
     
     <!-- App Description -->
-    <string name="app_description">Complete icon pack featuring 75+ beautifully designed icons for the most popular social media, productivity, and system apps. Includes modern icons for Instagram, TikTok, BeReal, Threads, Gmail, Chrome, and many more. Compatible with Nova Launcher, Apex, Action Launcher, and other major Android launchers.</string>
+    <string name="app_description">Experience the future of icon design with Liquid Glass Icons. Featuring 200+ beautifully crafted icons inspired by Apple\'s revolutionary Liquid Glass design language. Each icon features translucent glass effects, subtle depth, and fluid animations that adapt dynamically to your device. Compatible with Nova Launcher, Apex, Action Launcher, and other major Android launchers.</string>
+    
+    <!-- Features -->
+    <string name="feature_glass_effects">Glass Effects</string>
+    <string name="feature_glass_effects_desc">Translucent layers with depth and luminosity</string>
+    <string name="feature_fluid_animations">Fluid Animations</string>
+    <string name="feature_fluid_animations_desc">Smooth, organic motion inspired by Apple</string>
+    <string name="feature_adaptive_colors">Adaptive Colors</string>
+    <string name="feature_adaptive_colors_desc">Dynamic colors that respond to lighting</string>
+    <string name="feature_premium_quality">Premium Quality</string>
+    <string name="feature_premium_quality_desc">Meticulously designed with pixel-perfect precision</string>
     
     <!-- Icon Names -->
     <string name="icon_settings">Settings</string>
@@ -52,13 +62,38 @@
     <string name="icon_netflix">Netflix</string>
     
     <!-- Theme Names -->
-    <string name="theme_minimal_o">Minimal O</string>
-    <string name="theme_borealis">Borealis</string>
-    <string name="theme_tigad_pro">Tigad Pro</string>
+    <string name="theme_liquid_glass">Liquid Glass</string>
+    <string name="theme_glass_clear">Glass Clear</string>
+    <string name="theme_glass_tinted">Glass Tinted</string>
     
     <!-- Descriptions -->
-    <string name="minimal_o_desc">Clean, circular icons with minimal design</string>
-    <string name="borealis_desc">Square icons with rounded corners and vibrant colors</string>
-    <string name="tigad_pro_desc">3D icons with depth and premium appearance</string>
+    <string name="liquid_glass_desc">Translucent icons with dynamic glass effects</string>
+    <string name="glass_clear_desc">Crystal clear glass with subtle highlights</string>
+    <string name="glass_tinted_desc">Colored glass with enhanced depth and glow</string>
+    
+    <!-- Categories -->
+    <string name="category_communication">Communication</string>
+    <string name="category_media">Media &amp; Entertainment</string>
+    <string name="category_productivity">Productivity</string>
+    <string name="category_social">Social Media</string>
+    <string name="category_system">System</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_travel">Travel</string>
+    <string name="category_finance">Finance</string>
+    <string name="category_health">Health &amp; Fitness</string>
+    <string name="category_games">Games</string>
+    
+    <!-- Actions -->
+    <string name="action_preview">Preview</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_share">Share</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="action_rate">Rate App</string>
+    
+    <!-- Messages -->
+    <string name="applying_icons">Applying Liquid Glass icons...</string>
+    <string name="icons_applied">Icons applied successfully!</string>
+    <string name="error_applying">Error applying icons. Please try again.</string>
+    <string name="rate_message">Enjoying Liquid Glass Icons? Please rate us!</string>
 </resources>
 

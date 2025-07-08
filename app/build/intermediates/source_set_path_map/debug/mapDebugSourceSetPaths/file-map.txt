@@ -26,10 +26,9 @@ com.iconpack.studio.app-viewpager2-1.1.0-beta02-24 /Users/ahmed/.gradle/caches/t
 com.iconpack.studio.app-appcompat-resources-1.6.1-25 /Users/ahmed/.gradle/caches/transforms-3/e92db434e8bf35d7702d9b362502aeb1/transformed/appcompat-resources-1.6.1/res
 com.iconpack.studio.app-startup-runtime-1.1.1-26 /Users/ahmed/.gradle/caches/transforms-3/f70d8f253fc76b2443217117a94fe3ee/transformed/startup-runtime-1.1.1/res
 com.iconpack.studio.app-appcompat-1.6.1-27 /Users/ahmed/.gradle/caches/transforms-3/fa75df714f7a8714bceb2f768806c0c0/transformed/appcompat-1.6.1/res
-com.iconpack.studio.app-pngs-28 /Users/ahmed/Downloads/home/ubuntu/android-icon-pack/app/build/generated/res/pngs/debug
-com.iconpack.studio.app-resValues-29 /Users/ahmed/Downloads/home/ubuntu/android-icon-pack/app/build/generated/res/resValues/debug
-com.iconpack.studio.app-packageDebugResources-30 /Users/ahmed/Downloads/home/ubuntu/android-icon-pack/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.iconpack.studio.app-packageDebugResources-31 /Users/ahmed/Downloads/home/ubuntu/android-icon-pack/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.iconpack.studio.app-debug-32 /Users/ahmed/Downloads/home/ubuntu/android-icon-pack/app/build/intermediates/merged_res/debug/mergeDebugResources
-com.iconpack.studio.app-debug-33 /Users/ahmed/Downloads/home/ubuntu/android-icon-pack/app/src/debug/res
-com.iconpack.studio.app-main-34 /Users/ahmed/Downloads/home/ubuntu/android-icon-pack/app/src/main/res
+com.iconpack.studio.app-resValues-28 /Users/ahmed/Documents/iconpacks/android-icon-pack/app/build/generated/res/resValues/debug
+com.iconpack.studio.app-packageDebugResources-29 /Users/ahmed/Documents/iconpacks/android-icon-pack/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.iconpack.studio.app-packageDebugResources-30 /Users/ahmed/Documents/iconpacks/android-icon-pack/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.iconpack.studio.app-debug-31 /Users/ahmed/Documents/iconpacks/android-icon-pack/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.iconpack.studio.app-debug-32 /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/debug/res
+com.iconpack.studio.app-main-33 /Users/ahmed/Documents/iconpacks/android-icon-pack/app/src/main/res

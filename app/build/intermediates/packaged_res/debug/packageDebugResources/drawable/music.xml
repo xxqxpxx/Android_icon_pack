@@ -5,7 +5,39 @@
     android:viewportWidth="24"
     android:viewportHeight="24">
     
+    <!-- Rounded Square Background -->
     <path
-        android:fillColor="@color/primary_color"
-        android:pathData="M12,3v10.55c-0.59,-0.34 -1.27,-0.55 -2,-0.55c-2.21,0 -4,1.79 -4,4s1.79,4 4,4s4,-1.79 4,-4V7h4V3H12z"/>
+        android:fillColor="#FF9800"
+        android:pathData="M3,3
+                         Q3,1 5,1
+                         L19,1
+                         Q21,1 21,3
+                         L21,19
+                         Q21,21 19,21
+                         L5,21
+                         Q3,21 3,19
+                         Z"/>
+    
+    <!-- Music Note -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,6
+                         Q10,5 11,5
+                         L16,5
+                         Q17,5 17,6
+                         L17,13
+                         Q18,12 19,12
+                         C20.1,12 21,12.9 21,14
+                         C21,15.1 20.1,16 19,16
+                         C17.9,16 17,15.1 17,14
+                         L17,9
+                         L11,9
+                         L11,15
+                         Q12,14 13,14
+                         C14.1,14 15,14.9 15,16
+                         C15,17.1 14.1,18 13,18
+                         C11.9,18 11,17.1 11,16
+                         L11,6
+                         Q11,5 10,6
+                         Z"/>
 </vector> 

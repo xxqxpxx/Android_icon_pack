@@ -3,24 +3,26 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/background_color"
-    android:padding="16dp">
+    android:background="@color/background_primary"
+    android:padding="20dp"
+    android:fitsSystemWindows="true">
 
-    <!-- Header Section -->
+    <!-- Header Section with Glass Effect -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:gravity="center_vertical"
-        android:padding="16dp"
-        android:background="@drawable/header_background"
-        android:layout_marginBottom="16dp">
+        android:padding="24dp"
+        style="@style/LiquidGlassHeader"
+        android:layout_marginBottom="20dp">
 
         <ImageView
-            android:layout_width="48dp"
-            android:layout_height="48dp"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
             android:src="@drawable/ic_launcher"
-            android:layout_marginEnd="16dp" />
+            android:layout_marginEnd="20dp"
+            android:elevation="4dp" />
 
         <LinearLayout
             android:layout_width="0dp"
@@ -33,27 +35,26 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/app_name"
-                android:textSize="24sp"
-                android:textStyle="bold"
-                android:textColor="@color/primary_text" />
+                style="@style/LiquidGlassTitle" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/app_subtitle"
-                android:textSize="14sp"
-                android:textColor="@color/secondary_text" />
+                style="@style/LiquidGlassSubtitle"
+                android:layout_marginTop="4dp" />
 
         </LinearLayout>
 
     </LinearLayout>
 
-    <!-- Stats Section -->
+    <!-- Stats Section with Glass Cards -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:layout_marginBottom="16dp">
+        android:layout_marginBottom="24dp"
+        android:weightSum="3">
 
         <LinearLayout
             android:layout_width="0dp"
@@ -61,23 +62,19 @@
             android:layout_weight="1"
             android:orientation="vertical"
             android:gravity="center"
-            android:padding="12dp"
-            android:background="@drawable/stat_background">
+            style="@style/LiquidGlassStatCard">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="500+"
-                android:textSize="20sp"
-                android:textStyle="bold"
-                android:textColor="@color/accent_color" />
+                android:text="200+"
+                style="@style/LiquidGlassStatNumber" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Icons"
-                android:textSize="12sp"
-                android:textColor="@color/secondary_text" />
+                style="@style/LiquidGlassStatLabel" />
 
         </LinearLayout>
 
@@ -87,24 +84,19 @@
             android:layout_weight="1"
             android:orientation="vertical"
             android:gravity="center"
-            android:padding="12dp"
-            android:background="@drawable/stat_background"
-            android:layout_marginStart="8dp">
+            style="@style/LiquidGlassStatCard">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="3"
-                android:textSize="20sp"
-                android:textStyle="bold"
-                android:textColor="@color/accent_color" />
+                style="@style/LiquidGlassStatNumber" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Themes"
-                android:textSize="12sp"
-                android:textColor="@color/secondary_text" />
+                style="@style/LiquidGlassStatLabel" />
 
         </LinearLayout>
 
@@ -114,24 +106,80 @@
             android:layout_weight="1"
             android:orientation="vertical"
             android:gravity="center"
-            android:padding="12dp"
-            android:background="@drawable/stat_background"
-            android:layout_marginStart="8dp">
+            style="@style/LiquidGlassStatCard">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="4.8★"
-                android:textSize="20sp"
-                android:textStyle="bold"
-                android:textColor="@color/accent_color" />
+                android:text="4.9★"
+                style="@style/LiquidGlassStatNumber" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Rating"
-                android:textSize="12sp"
-                android:textColor="@color/secondary_text" />
+                style="@style/LiquidGlassStatLabel" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- Features Section -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="24dp">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:gravity="center"
+            style="@style/LiquidGlassCard"
+            android:layout_marginEnd="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/feature_glass_effects"
+                style="@style/LiquidGlassCaption"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/feature_glass_effects_desc"
+                style="@style/LiquidGlassCaption"
+                android:layout_marginTop="4dp"
+                android:textAlignment="center" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:gravity="center"
+            style="@style/LiquidGlassCard"
+            android:layout_marginStart="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/feature_adaptive_colors"
+                style="@style/LiquidGlassCaption"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/feature_adaptive_colors_desc"
+                style="@style/LiquidGlassCaption"
+                android:layout_marginTop="4dp"
+                android:textAlignment="center" />
 
         </LinearLayout>
 
@@ -142,10 +190,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Icon Preview"
-        android:textSize="18sp"
-        android:textStyle="bold"
-        android:textColor="@color/primary_text"
-        android:layout_marginBottom="12dp" />
+        style="@style/LiquidGlassHeadline"
+        android:layout_marginBottom="16dp" />
 
     <GridView
         android:id="@+id/icon_grid"
@@ -153,19 +199,23 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:numColumns="4"
-        android:horizontalSpacing="8dp"
-        android:verticalSpacing="8dp"
+        android:horizontalSpacing="12dp"
+        android:verticalSpacing="12dp"
         android:stretchMode="columnWidth"
-        android:gravity="center" />
+        android:gravity="center"
+        android:padding="8dp"
+        android:clipToPadding="false"
+        android:scrollbars="none"
+        android:overScrollMode="never" />
 
-    <!-- Apply Button -->
+    <!-- Apply Button with Liquid Glass Style -->
     <Button
         android:id="@+id/apply_button"
-        style="@style/PrimaryButton"
+        style="@style/LiquidGlassButton"
         android:layout_width="match_parent"
         android:layout_height="56dp"
         android:text="@string/apply_icon_pack"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="20dp"
         android:clickable="true"
         android:focusable="true"
         android:enabled="true" />

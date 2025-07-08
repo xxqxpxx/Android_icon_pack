@@ -5,19 +5,42 @@
     android:viewportWidth="24"
     android:viewportHeight="24">
     
+    <!-- Rounded Square Background -->
     <path
-        android:fillColor="#0F9D58"
-        android:pathData="M7.71,3.5L1.15,15l3.08,5.32L11.99,8.84L7.71,3.5z"/>
-    <path
-        android:fillColor="#F1C232"
-        android:pathData="M20.99,15l-3.08,5.32H4.23L7.31,15H20.99z"/>
+        android:fillColor="#FFFFFF"
+        android:pathData="M3,3
+                         Q3,1 5,1
+                         L19,1
+                         Q21,1 21,3
+                         L21,19
+                         Q21,21 19,21
+                         L5,21
+                         Q3,21 3,19
+                         Z"/>
+    
+    <!-- Drive Triangle Blue -->
     <path
         android:fillColor="#4285F4"
-        android:pathData="M7.31,15L4.23,20.32L1.15,15l6.16,-10.68L11.99,8.84L7.31,15z"/>
+        android:pathData="M8,7
+                         L16,7
+                         L12,13
+                         Z"/>
+    
+    <!-- Drive Triangle Green -->
     <path
-        android:fillColor="#0F9D58"
-        android:pathData="M16.69,3.5L12.41,8.84H24L20.92,3.5H16.69z"/>
+        android:fillColor="#34A853"
+        android:pathData="M7,15
+                         L12,13
+                         L17,15
+                         L12,17
+                         Z"/>
+    
+    <!-- Drive Triangle Yellow -->
     <path
-        android:fillColor="#F1C232"
-        android:pathData="M12.41,8.84H24L20.92,15H7.31L12.41,8.84z"/>
+        android:fillColor="#FBBC04"
+        android:pathData="M8,7
+                         L12,13
+                         L7,15
+                         L6,9
+                         Z"/>
 </vector> 

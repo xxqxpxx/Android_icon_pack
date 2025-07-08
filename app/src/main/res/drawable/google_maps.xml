@@ -5,10 +5,43 @@
     android:viewportWidth="24"
     android:viewportHeight="24">
     
+    <!-- Rounded Square Background -->
     <path
-        android:fillColor="#4285F4"
-        android:pathData="M12,2C8.134,2 5,5.134 5,9c0,5.25 7,13 7,13s7,-7.75 7,-13C19,5.134 15.866,2 12,2zM12,11.5c-1.381,0 -2.5,-1.119 -2.5,-2.5S10.619,6.5 12,6.5s2.5,1.119 2.5,2.5S13.381,11.5 12,11.5z"/>
+        android:fillColor="#FFFFFF"
+        android:pathData="M3,3
+                         Q3,1 5,1
+                         L19,1
+                         Q21,1 21,3
+                         L21,19
+                         Q21,21 19,21
+                         L5,21
+                         Q3,21 3,19
+                         Z"/>
+    
+    <!-- Map Pin -->
     <path
         android:fillColor="#EA4335"
-        android:pathData="M12,6.5c1.381,0 2.5,1.119 2.5,2.5S13.381,11.5 12,11.5s-2.5,-1.119 -2.5,-2.5S10.619,6.5 12,6.5"/>
+        android:pathData="M12,6
+                         C14.2,6 16,7.8 16,10
+                         C16,13 12,18 12,18
+                         S8,13 8,10
+                         C8,7.8 9.8,6 12,6Z"/>
+    
+    <!-- Pin Center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,8
+                         C13.1,8 14,8.9 14,10
+                         C14,11.1 13.1,12 12,12
+                         C10.9,12 10,11.1 10,10
+                         C10,8.9 10.9,8 12,8Z"/>
+    
+    <!-- Road -->
+    <path
+        android:fillColor="#34A853"
+        android:pathData="M6,16
+                         Q12,14 18,16
+                         L18,18
+                         Q12,16 6,18
+                         Z"/>
 </vector> 

@@ -1,48 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Primary Colors -->
-    <color name="primary_color">#2196F3</color>
-    <color name="primary_dark">#1976D2</color>
-    <color name="primary_light">#BBDEFB</color>
+    <!-- Apple Liquid Glass Primary Colors -->
+    <color name="glass_blue">#4D007AFF</color>
+    <color name="glass_green">#4D34C759</color>
+    <color name="glass_red">#4DFF3B30</color>
+    <color name="glass_yellow">#4DFFCC02</color>
+    <color name="glass_purple">#4DAF52DE</color>
+    <color name="glass_pink">#4DFF2D92</color>
+    <color name="glass_orange">#4DFF9500</color>
+    <color name="glass_gray">#4D8E8E93</color>
     
-    <!-- Accent Colors -->
-    <color name="accent_color">#FF4081</color>
-    <color name="accent_light">#FF80AB</color>
-    <color name="accent_dark">#C2185B</color>
+    <!-- Accent Colors (Full Opacity) -->
+    <color name="accent_blue">#007AFF</color>
+    <color name="accent_green">#34C759</color>
+    <color name="accent_red">#FF3B30</color>
+    <color name="accent_yellow">#FFCC02</color>
+    <color name="accent_purple">#AF52DE</color>
+    <color name="accent_pink">#FF2D92</color>
+    <color name="accent_orange">#FF9500</color>
+    <color name="accent_gray">#8E8E93</color>
     
-    <!-- Background Colors -->
-    <color name="background_color">#FAFAFA</color>
-    <color name="surface_color">#FFFFFF</color>
-    <color name="card_background">#FFFFFF</color>
+    <!-- Background Colors with Glass Effects -->
+    <color name="background_primary">#F2F2F7</color>
+    <color name="background_secondary">#FFFFFF</color>
+    <color name="background_glass">#80F2F2F7</color>
+    <color name="background_glass_dark">#80000000</color>
+    
+    <!-- Surface Colors -->
+    <color name="surface_glass">#99FFFFFF</color>
+    <color name="surface_glass_tinted">#B3F2F2F7</color>
+    <color name="card_background_glass">#CCFFFFFF</color>
+    <color name="card_background_glass_dark">#CC1C1C1E</color>
     
     <!-- Text Colors -->
-    <color name="primary_text">#212121</color>
-    <color name="secondary_text">#757575</color>
-    <color name="hint_text">#BDBDBD</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#3C3C43</color>
+    <color name="text_tertiary">#3C3C4399</color>
+    <color name="text_quaternary">#3C3C432E</color>
+    <color name="text_on_glass">#FFFFFF</color>
+    <color name="text_on_glass_secondary">#FFFFFFCC</color>
     
-    <!-- Divider and Border Colors -->
-    <color name="divider_color">#E0E0E0</color>
-    <color name="border_color">#EEEEEE</color>
+    <!-- System Colors with Glass Effect -->
+    <color name="system_blue_glass">#33007AFF</color>
+    <color name="system_green_glass">#3334C759</color>
+    <color name="system_red_glass">#33FF3B30</color>
+    <color name="system_orange_glass">#33FF9500</color>
+    <color name="system_yellow_glass">#33FFCC02</color>
+    <color name="system_pink_glass">#33FF2D92</color>
+    <color name="system_purple_glass">#33AF52DE</color>
+    <color name="system_teal_glass">#3330B0C7</color>
+    <color name="system_indigo_glass">#335856D6</color>
     
-    <!-- Status Colors -->
-    <color name="success_color">#4CAF50</color>
-    <color name="warning_color">#FF9800</color>
-    <color name="error_color">#F44336</color>
+    <!-- Separator and Border Colors -->
+    <color name="separator_light">#3C3C434A</color>
+    <color name="separator_dark">#54545899</color>
+    <color name="border_glass">#1A000000</color>
     
-    <!-- Theme Specific Colors -->
-    <color name="minimal_o_primary">#9E9E9E</color>
-    <color name="borealis_primary">#673AB7</color>
-    <color name="tigad_pro_primary">#FF5722</color>
+    <!-- Shadow and Glow Colors -->
+    <color name="shadow_light">#1A000000</color>
+    <color name="shadow_medium">#33000000</color>
+    <color name="glow_white">#80FFFFFF</color>
+    <color name="glow_blue">#40007AFF</color>
     
-    <!-- Transparent Colors -->
+    <!-- Transparency Levels -->
     <color name="transparent">#00000000</color>
-    <color name="semi_transparent">#80000000</color>
+    <color name="transparent_10">#1A000000</color>
+    <color name="transparent_20">#33000000</color>
+    <color name="transparent_30">#4D000000</color>
+    <color name="transparent_40">#66000000</color>
+    <color name="transparent_50">#80000000</color>
+    <color name="transparent_white_10">#1AFFFFFF</color>
+    <color name="transparent_white_20">#33FFFFFF</color>
+    <color name="transparent_white_30">#4DFFFFFF</color>
+    <color name="transparent_white_40">#66FFFFFF</color>
+    <color name="transparent_white_50">#80FFFFFF</color>
     
-    <!-- Material Design Colors -->
-    <color name="material_blue">#2196F3</color>
-    <color name="material_purple">#9C27B0</color>
-    <color name="material_green">#4CAF50</color>
-    <color name="material_orange">#FF9800</color>
-    <color name="material_red">#F44336</color>
+    <!-- Legacy color names for compatibility -->
+    <color name="primary_color">@color/accent_blue</color>
+    <color name="primary_dark">#0051D5</color>
+    <color name="primary_light">@color/glass_blue</color>
+    <color name="accent_color">@color/accent_blue</color>
+    <color name="background_color">@color/background_primary</color>
+    <color name="surface_color">@color/surface_glass</color>
+    <color name="card_background">@color/card_background_glass</color>
+    <color name="primary_text">@color/text_primary</color>
+    <color name="secondary_text">@color/text_secondary</color>
+    <color name="hint_text">@color/text_tertiary</color>
+    <color name="divider_color">@color/separator_light</color>
+    <color name="border_color">@color/border_glass</color>
+    
+    <!-- Dark Mode Colors -->
+    <color name="background_primary_dark">#000000</color>
+    <color name="background_secondary_dark">#1C1C1E</color>
+    <color name="surface_glass_dark">#991C1C1E</color>
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_secondary_dark">#EBEBF5</color>
+    <color name="text_tertiary_dark">#EBEBF599</color>
 </resources>
 

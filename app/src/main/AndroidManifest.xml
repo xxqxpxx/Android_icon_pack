@@ -1,88 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.iconpack.studio"
-    android:versionCode="2"
-    android:versionName="2.0">
-
-    <uses-sdk
-        android:minSdkVersion="21"
-        android:targetSdkVersion="34" />
+    package="com.iconpack.studio">
 
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme">
-
-        <activity
-            android:name=".MainActivity"
+        android:theme="@style/AppTheme.NoActionBar"
+        android:supportsRtl="true">
+        
+        <activity android:name=".MainActivity"
             android:exported="true"
-            android:label="@string/app_name">
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
-            <!-- Nova Launcher -->
-            <intent-filter>
-                <action android:name="com.novalauncher.THEME" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-            
-            <!-- Required metadata for icon pack detection -->
-            <meta-data android:name="com.novalauncher.theme" android:value="true" />
-            <meta-data android:name="com.teslacoilsw.launcher.theme" android:value="true" />
-            <meta-data android:name="com.anddoes.launcher.theme" android:value="true" />
-            <meta-data android:name="org.adw.launcher.themes" android:value="true" />
-            <meta-data android:name="ginlemon.smartlauncher.theme" android:value="true" />
-            <meta-data android:name="ch.deletescape.lawnchair.theme" android:value="true" />
-
-            <!-- Action Launcher -->
-            <intent-filter>
-                <action android:name="com.teslacoilsw.launcher.THEME" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-
-            <!-- Apex Launcher -->
-            <intent-filter>
-                <action android:name="com.anddoes.launcher.THEME" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-
-            <!-- ADW Launcher -->
-            <intent-filter>
-                <action android:name="org.adw.launcher.THEMES" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-
-            <!-- Go Launcher -->
-            <intent-filter>
-                <action android:name="com.gau.go.launcherex.theme" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-
-            <!-- Smart Launcher -->
-            <intent-filter>
-                <action android:name="ginlemon.smartlauncher.THEME" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-
-            <!-- Lawnchair -->
-            <intent-filter>
-                <action android:name="ch.deletescape.lawnchair.THEME" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
         </activity>
 
+        <!-- Icon Pack Intent Filters -->
         <activity-alias
-            android:name=".MainActivityNova"
+            android:name=".ApplyTheme"
+            android:targetActivity=".MainActivity"
             android:enabled="true"
-            android:exported="true"
-            android:icon="@drawable/ic_launcher"
-            android:label="@string/app_name"
-            android:targetActivity=".MainActivity">
+            android:exported="true">
             <intent-filter>
-                <action android:name="com.novalauncher.THEME" />
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias>
+
+        <!-- ADW Launcher Support -->
+        <activity-alias
+            android:name="org.adw.launcher.THEMES"
+            android:targetActivity=".MainActivity"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="org.adw.launcher.THEMES" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity-alias>

@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     
-    <!-- Base Application Theme -->
+    <!-- Base Application Theme - Liquid Glass -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimary">@color/accent_blue</item>
         <item name="colorPrimaryDark">@color/primary_dark</item>
-        <item name="colorAccent">@color/accent_color</item>
-        <item name="android:windowBackground">@color/background_color</item>
-        <item name="android:textColorPrimary">@color/primary_text</item>
-        <item name="android:textColorSecondary">@color/secondary_text</item>
+        <item name="colorAccent">@color/accent_blue</item>
+        <item name="android:windowBackground">@color/background_primary</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:statusBarColor">@color/transparent_20</item>
+        <item name="android:navigationBarColor">@color/surface_glass</item>
+        <item name="android:windowLightStatusBar">true</item>
     </style>
     
     <!-- No Action Bar Theme -->
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
     </style>
     
     <!-- Full Screen Theme -->
@@ -22,70 +27,173 @@
         <item name="android:windowFullscreen">true</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
     </style>
     
-    <!-- Button Styles -->
-    <style name="PrimaryButton">
+    <!-- Liquid Glass Button Styles -->
+    <style name="LiquidGlassButton">
         <item name="android:background">@drawable/button_background</item>
-        <item name="android:textColor">@android:color/white</item>
-        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/text_on_glass</item>
+        <item name="android:textSize">17sp</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:padding">16dp</item>
-        <item name="android:elevation">4dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:elevation">8dp</item>
+        <item name="android:translationZ">4dp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+    
+    <!-- Primary Button (legacy compatibility) -->
+    <style name="PrimaryButton" parent="LiquidGlassButton">
     </style>
     
     <style name="SecondaryButton">
-        <item name="android:background">@drawable/button_secondary_background</item>
-        <item name="android:textColor">@color/primary_color</item>
+        <item name="android:background">@drawable/card_background</item>
+        <item name="android:textColor">@color/accent_blue</item>
         <item name="android:textSize">16sp</item>
-        <item name="android:padding">16dp</item>
-        <item name="android:elevation">2dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">18dp</item>
+        <item name="android:elevation">4dp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
     </style>
     
-    <!-- Text Styles -->
-    <style name="HeaderText">
+    <!-- Liquid Glass Text Styles -->
+    <style name="LiquidGlassTitle">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+    </style>
+    
+    <style name="LiquidGlassSubtitle">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="android:alpha">0.8</item>
+    </style>
+    
+    <style name="LiquidGlassHeadline">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.01</item>
+    </style>
+    
+    <style name="LiquidGlassBody">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+    </style>
+    
+    <style name="LiquidGlassCaption">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/text_tertiary</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+    
+    <!-- Legacy Text Styles for compatibility -->
+    <style name="HeaderText" parent="LiquidGlassTitle">
+    </style>
+    
+    <style name="SubHeaderText" parent="LiquidGlassHeadline">
+    </style>
+    
+    <style name="BodyText" parent="LiquidGlassBody">
+    </style>
+    
+    <style name="CaptionText" parent="LiquidGlassCaption">
+    </style>
+    
+    <!-- Liquid Glass Card Styles -->
+    <style name="LiquidGlassCard">
+        <item name="android:background">@drawable/card_background</item>
+        <item name="android:elevation">6dp</item>
+        <item name="android:translationZ">2dp</item>
+        <item name="android:layout_margin">12dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:foreground">?android:attr/selectableItemBackground</item>
+    </style>
+    
+    <style name="LiquidGlassStatCard">
+        <item name="android:background">@drawable/stat_background</item>
+        <item name="android:elevation">4dp</item>
+        <item name="android:translationZ">1dp</item>
+        <item name="android:layout_margin">6dp</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:foreground">?android:attr/selectableItemBackground</item>
+    </style>
+    
+    <!-- Legacy Card Style for compatibility -->
+    <style name="CardView" parent="LiquidGlassCard">
+    </style>
+    
+    <!-- Liquid Glass Icon Styles -->
+    <style name="LiquidGlassIcon">
+        <item name="android:layout_width">72dp</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:background">@drawable/icon_item_background</item>
+        <item name="android:elevation">3dp</item>
+        <item name="android:translationZ">1dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:foreground">?android:attr/selectableItemBackgroundBorderless</item>
+    </style>
+    
+    <!-- Legacy Icon Style for compatibility -->
+    <style name="IconStyle" parent="LiquidGlassIcon">
+        <item name="android:layout_width">64dp</item>
+        <item name="android:layout_height">64dp</item>
+    </style>
+    
+    <!-- Liquid Glass Dialog Styles -->
+    <style name="LiquidGlassDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorPrimary">@color/accent_blue</item>
+        <item name="colorAccent">@color/accent_blue</item>
+        <item name="android:windowBackground">@drawable/dialog_background</item>
+        <item name="android:windowElevation">16dp</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+    
+    <!-- Legacy Dialog Style for compatibility -->
+    <style name="CustomDialog" parent="LiquidGlassDialog">
+    </style>
+    
+    <!-- Liquid Glass Stats Text Styles -->
+    <style name="LiquidGlassStatNumber">
         <item name="android:textSize">24sp</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:textColor">@color/accent_blue</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:letterSpacing">-0.01</item>
     </style>
     
-    <style name="SubHeaderText">
-        <item name="android:textSize">18sp</item>
-        <item name="android:textStyle">bold</item>
-        <item name="android:textColor">@color/primary_text</item>
-    </style>
-    
-    <style name="BodyText">
-        <item name="android:textSize">14sp</item>
-        <item name="android:textColor">@color/primary_text</item>
-    </style>
-    
-    <style name="CaptionText">
+    <style name="LiquidGlassStatLabel">
         <item name="android:textSize">12sp</item>
-        <item name="android:textColor">@color/secondary_text</item>
+        <item name="android:textColor">@color/text_tertiary</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.05</item>
+        <item name="android:textAllCaps">true</item>
     </style>
     
-    <!-- Card Styles -->
-    <style name="CardView">
-        <item name="android:background">@drawable/card_background</item>
-        <item name="android:elevation">4dp</item>
-        <item name="android:layout_margin">8dp</item>
-        <item name="android:padding">16dp</item>
-    </style>
-    
-    <!-- Icon Styles -->
-    <style name="IconStyle">
-        <item name="android:layout_width">48dp</item>
-        <item name="android:layout_height">48dp</item>
-        <item name="android:scaleType">centerCrop</item>
-        <item name="android:background">@drawable/icon_background</item>
-    </style>
-    
-    <!-- Dialog Styles -->
-    <style name="CustomDialog" parent="Theme.AppCompat.Light.Dialog">
-        <item name="colorPrimary">@color/primary_color</item>
-        <item name="colorAccent">@color/accent_color</item>
-        <item name="android:windowBackground">@drawable/dialog_background</item>
+    <!-- Header Container Style -->
+    <style name="LiquidGlassHeader">
+        <item name="android:background">@drawable/header_background</item>
+        <item name="android:elevation">8dp</item>
+        <item name="android:translationZ">4dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:layout_margin">16dp</item>
     </style>
     
 </resources>

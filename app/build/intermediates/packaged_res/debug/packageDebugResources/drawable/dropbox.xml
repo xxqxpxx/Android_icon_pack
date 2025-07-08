@@ -5,19 +5,34 @@
     android:viewportWidth="24"
     android:viewportHeight="24">
     
+    <!-- Rounded Square Background -->
     <path
         android:fillColor="#0061FF"
-        android:pathData="M7.71,2.8L0,7.2L7.71,11.6L12,8.8L7.71,2.8z"/>
+        android:pathData="M3,3
+                         Q3,1 5,1
+                         L19,1
+                         Q21,1 21,3
+                         L21,19
+                         Q21,21 19,21
+                         L5,21
+                         Q3,21 3,19
+                         Z"/>
+    
+    <!-- Dropbox Diamond -->
     <path
-        android:fillColor="#0061FF"
-        android:pathData="M16.29,2.8L12,8.8L16.29,11.6L24,7.2L16.29,2.8z"/>
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,6
+                         L6,10
+                         L12,14
+                         L18,10
+                         Z"/>
+    
+    <!-- Bottom Diamond -->
     <path
-        android:fillColor="#0061FF"
-        android:pathData="M0,16.8L7.71,12.4L12,15.2L7.71,21.2L0,16.8z"/>
-    <path
-        android:fillColor="#0061FF"
-        android:pathData="M16.29,12.4L24,16.8L16.29,21.2L12,15.2L16.29,12.4z"/>
-    <path
-        android:fillColor="#0061FF"
-        android:pathData="M12,15.2L7.71,12.4L4.29,14.4L12,18.8L19.71,14.4L16.29,12.4L12,15.2z"/>
+        android:fillColor="#FFFFFF"
+        android:pathData="M6,12
+                         L12,16
+                         L18,12
+                         L12,18
+                         Z"/>
 </vector> 
